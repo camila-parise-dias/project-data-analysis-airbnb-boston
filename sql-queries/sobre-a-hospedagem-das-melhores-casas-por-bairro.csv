@@ -1,0 +1,67 @@
+neighbourhood,room_type,total_room_type,avg_review_scores_rating,avg_accommodates,avg_price,avg_weekly_price,avg_monthly_price
+Allston-Brighton,Entire home/apt,96,93.0,4.0,174.0,1127.0,3513.0
+Allston-Brighton,Private room,138,95.0,2.0,75.0,447.0,1564.0
+Allston-Brighton,Shared room,7,94.0,1.0,55.0,305.0,1000.0
+Back Bay,Entire home/apt,180,93.0,3.0,254.0,1407.0,6590.0
+Back Bay,Private room,23,95.0,2.0,134.0,1099.0,4916.0
+Back Bay,Shared room,1,100.0,1.0,40.0,,
+Beacon Hill,Entire home/apt,125,95.0,3.0,228.0,1396.0,4358.0
+Beacon Hill,Private room,21,93.0,2.0,147.0,881.0,2389.0
+Beacon Hill,Shared room,1,95.0,1.0,100.0,,
+Brookline,Private room,2,100.0,2.0,64.0,,
+Cambridge,Entire home/apt,1,89.0,8.0,329.0,,
+Charlestown,Entire home/apt,44,96.0,4.0,217.0,1370.0,4306.0
+Charlestown,Private room,16,93.0,2.0,132.0,780.0,2140.0
+Chestnut Hill,Private room,2,90.0,1.0,72.0,,
+Chinatown,Entire home/apt,40,93.0,4.0,260.0,1950.0,7129.0
+Chinatown,Private room,4,95.0,2.0,162.0,,
+Dorchester,Entire home/apt,43,93.0,5.0,160.0,1266.0,3185.0
+Dorchester,Private room,102,93.0,2.0,75.0,444.0,1348.0
+Dorchester,Shared room,3,98.0,1.0,64.0,,
+Downtown,Entire home/apt,5,88.0,3.0,229.0,1275.0,3733.0
+Downtown,Private room,1,80.0,8.0,70.0,,
+Downtown Crossing,Entire home/apt,19,92.0,4.0,283.0,1825.0,7500.0
+Downtown Crossing,Shared room,1,95.0,2.0,95.0,550.0,2000.0
+East Boston,Entire home/apt,48,91.0,4.0,159.0,1231.0,3809.0
+East Boston,Private room,47,92.0,2.0,89.0,531.0,2172.0
+East Boston,Shared room,2,98.0,2.0,53.0,321.0,1134.0
+Fenway/Kenmore,Entire home/apt,101,93.0,3.0,226.0,961.0,6675.0
+Fenway/Kenmore,Private room,35,94.0,2.0,106.0,558.0,2267.0
+Fenway/Kenmore,Shared room,4,92.0,2.0,76.0,451.0,1895.0
+Financial District,Entire home/apt,3,98.0,5.0,330.0,,
+Financial District,Private room,1,100.0,4.0,135.0,,
+Government Center,Entire home/apt,3,92.0,5.0,205.0,1500.0,4450.0
+Hyde Park,Entire home/apt,6,95.0,6.0,201.0,1325.0,4900.0
+Hyde Park,Private room,11,94.0,2.0,63.0,363.0,1188.0
+Hyde Park,Shared room,1,80.0,1.0,31.0,200.0,750.0
+Jamaica Plain,Entire home/apt,119,95.0,5.0,208.0,1256.0,3776.0
+Jamaica Plain,Private room,140,95.0,2.0,80.0,519.0,1672.0
+Jamaica Plain,Shared room,2,88.0,3.0,135.0,,
+Leather District,Entire home/apt,3,97.0,3.0,323.0,1600.0,3800.0
+Leather District,Private room,2,100.0,3.0,149.0,,
+Mattapan,Private room,11,91.0,2.0,58.0,384.0,933.0
+Mission Hill,Entire home/apt,18,91.0,4.0,185.0,1183.0,5218.0
+Mission Hill,Private room,35,91.0,2.0,80.0,514.0,1876.0
+Mission Hill,Shared room,3,96.0,2.0,46.0,250.0,650.0
+North End,Entire home/apt,92,94.0,4.0,199.0,1027.0,3541.0
+North End,Private room,12,97.0,3.0,163.0,950.0,2875.0
+North End,Shared room,1,92.0,1.0,72.0,,
+Roslindale,Entire home/apt,14,95.0,6.0,154.0,837.0,2736.0
+Roslindale,Private room,32,96.0,2.0,70.0,438.0,1243.0
+Roxbury,Entire home/apt,36,91.0,6.0,228.0,1653.0,5004.0
+Roxbury,Private room,52,92.0,2.0,81.0,498.0,1572.0
+Roxbury,Shared room,3,91.0,1.0,33.0,400.0,1200.0
+Somerville,Private room,6,92.0,2.0,72.0,,
+South Boston,Entire home/apt,115,96.0,5.0,263.0,1896.0,6462.0
+South Boston,Private room,56,94.0,2.0,116.0,675.0,2217.0
+South Boston,Shared room,3,96.0,1.0,108.0,525.0,1200.0
+South End,Entire home/apt,184,94.0,3.0,232.0,1454.0,4896.0
+South End,Private room,44,94.0,2.0,133.0,764.0,2775.0
+South End,Shared room,5,95.0,1.0,169.0,,
+Theater District,Entire home/apt,14,93.0,4.0,271.0,375.0,5458.0
+Theater District,Private room,3,94.0,1.0,107.0,888.0,2000.0
+West End,Entire home/apt,32,93.0,4.0,246.0,1483.0,6783.0
+West End,Private room,3,88.0,1.0,123.0,825.0,1967.0
+West End,Shared room,1,95.0,2.0,103.0,575.0,1491.0
+West Roxbury,Entire home/apt,8,97.0,5.0,169.0,670.0,3500.0
+West Roxbury,Private room,19,96.0,3.0,67.0,477.0,1408.0
