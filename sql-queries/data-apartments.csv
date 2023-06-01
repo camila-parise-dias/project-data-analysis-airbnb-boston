@@ -1,0 +1,1220 @@
+id,neighborhood,property_type,room_type,bedrooms,bathrooms,accommodates,price,review_scores_rating,street,review_scores_location
+5153080,South End,Apartment,Private room,1,1.0,2,139.0,100,"Tremont Street, Boston, MA 02118, United States",10
+8518237,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,250.0,100,"Gerald Rd, Boston, MA 02135, United States",10
+8733896,Leather District,Apartment,Private room,1,1.0,2,159.0,100,"Lincoln Street, Boston, MA 02111, United States",10
+10671192,South End,Apartment,Entire home/apt,1,1.0,2,175.0,100,"West Springfield Street, Boston, MA 02118, United States",10
+8704161,Beacon Hill,Apartment,Entire home/apt,2,2.0,4,500.0,100,"Temple Street, Boston, MA 02114, United States",10
+5684598,Charlestown,Apartment,Entire home/apt,1,1.0,2,199.0,100,"1st Avenue, Boston, MA 02129, United States",10
+11122394,Back Bay,Apartment,Entire home/apt,2,1.0,4,450.0,100,"Marlborough Street, Boston, MA 02116, United States",10
+3343428,Roxbury,Apartment,Private room,1,1.0,2,95.0,100,"Alvah Kittredge Park, Boston, MA 02119, United States",9
+3458030,Back Bay,Apartment,Entire home/apt,2,1.0,4,500.0,100,"Garrison Street, Boston, MA 02116, United States",10
+1301500,Jamaica Plain,Apartment,Private room,1,1.0,2,69.0,100,"Green Street, Boston, MA 02130, United States",10
+11992431,Dorchester,Apartment,Private room,1,1.0,2,70.0,100,"Harvard Street, Boston, MA 02121, United States",9
+11121872,Back Bay,Apartment,Private room,1,1.0,2,150.0,100,"Marlborough Street, Boston, MA 02116, United States",10
+9273,East Boston,Apartment,Entire home/apt,2,2.0,4,225.0,100,"Jeffries St, Boston, MA 02128, United States",9
+9415687,Dorchester,Apartment,Entire home/apt,1,1.0,2,200.0,100,"Brent Street, Boston, MA 02124, United States",10
+14178758,East Boston,Apartment,Private room,1,1.0,1,85.0,100,"Gove Street, Boston, MA 02128, United States",10
+7205210,South End,Apartment,Entire home/apt,1,1.0,2,200.0,100,"Washington Street, Boston, MA 02118, United States",10
+7961477,Back Bay,Apartment,Entire home/apt,1,1.0,4,245.0,100,"Commonwealth Avenue, Boston, MA 02116, United States",10
+8827268,South End,Apartment,Entire home/apt,1,1.0,4,200.0,100,"A Street, Boston, MA 02210, United States",10
+8301926,South End,Apartment,Private room,1,1.0,2,99.0,100,"Tremont Street, Boston, MA 02116, United States",10
+3808557,South End,Apartment,Entire home/apt,2,1.0,6,450.0,100,"Massachusetts Avenue, Boston, MA 02118, United States",10
+4588530,South End,Apartment,Entire home/apt,1,1.0,3,150.0,100,"West Concord Street, Boston, MA 02118, United States",10
+583255,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,184.0,100,"Sutherland Road, Boston, MA 02135, United States",10
+13140867,North End,Apartment,Entire home/apt,1,1.0,2,200.0,100,"Tileston Street, Boston, MA 02113, United States",10
+5885130,South End,Apartment,Entire home/apt,1,1.0,2,295.0,100,"Shawmut Avenue, Boston, MA 02118, United States",10
+8371115,South End,Apartment,Entire home/apt,1,1.0,2,178.0,100,"Worcester Square, Boston, MA 02118, United States",10
+8428052,Beacon Hill,Apartment,Private room,1,1.0,2,195.0,100,"Boston, MA 02114, United States",10
+7634067,East Boston,Apartment,Shared room,1,1.0,2,50.0,100,"Webster Street, Boston, MA 02128, United States",10
+11470818,South End,Apartment,Entire home/apt,1,1.0,2,300.0,100,"West Rutland Square, Boston, MA 02118, United States",10
+12647606,Jamaica Plain,Apartment,Private room,1,1.0,2,75.0,100,"Chestnut Ave, Jamaica Plain, MA 02130, United States",10
+13375092,Allston-Brighton,Apartment,Private room,1,1.0,2,85.0,100,"Sutherland Road, Boston, MA 02135, United States",10
+12997334,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,120.0,100,"Soldiers Field Road, Boston, MA 02163, United States",10
+9425902,North End,Apartment,Entire home/apt,1,1.0,2,140.0,100,"Commercial Street, Boston, MA 02109, United States",10
+8371203,Roxbury,Apartment,Private room,1,1.0,1,90.0,100,"Hartford Street, Boston, MA 02125, United States",10
+629814,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,225.0,100,"Marbury Terrace, Boston, MA 02130, United States",10
+10379031,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,275.0,100,"Hancock Street, Boston, MA 02114, United States",10
+851927,South End,Apartment,Entire home/apt,1,1.0,1,150.0,100,"Columbus Avenue, Boston, MA 02116, United States",10
+13318173,South End,Apartment,Entire home/apt,2,1.0,3,275.0,100,"Columbus Avenue, Boston, MA 02118, United States",10
+10787333,Roxbury,Apartment,Entire home/apt,1,1.0,2,114.0,100,"Linwood Square, Boston, MA 02119, United States",9
+5592866,Charlestown,Apartment,Entire home/apt,1,1.0,2,150.0,100,"Bunker Hill Street, Boston, MA 02129, United States",10
+12683680,North End,Apartment,Entire home/apt,2,1.0,4,200.0,100,"North Margin Street apt, Boston, MA 02113, United States",10
+4339392,Jamaica Plain,Apartment,Entire home/apt,2,2.0,3,170.0,100,"Chestnut Avenue, Boston, MA 02130, United States",10
+12221012,North End,Apartment,Entire home/apt,2,1.0,4,400.0,100,"Fulton Street, Boston, MA 02109, United States",10
+13513012,Jamaica Plain,Apartment,Private room,1,1.0,2,84.0,100,"Tower Street, Boston, MA 02130, United States",10
+11648212,North End,Apartment,Entire home/apt,1,1.0,2,145.0,100,"Prince Street, Boston, MA 02113, United States",10
+9460898,South Boston,Apartment,Entire home/apt,1,1.0,4,189.0,100,"West Broadway, Boston, MA 02127, United States",10
+965554,West End,Apartment,Entire home/apt,2,1.0,4,349.0,100,"Emerson Place, Boston, MA 02114, United States",10
+11624428,North End,Apartment,Entire home/apt,1,1.0,4,300.0,100,"Commercial Street, Boston, MA 02109, United States",10
+1421610,Charlestown,Apartment,Entire home/apt,2,2.0,4,320.0,100,"Monument Square, Boston, MA 02129, United States",9
+12541136,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,230.0,100,"Beacon Street, Boston, MA 02108, United States",10
+14153636,Allston-Brighton,Apartment,Private room,1,1.0,2,79.0,100,"West Sorrento Street, Boston, MA 02134, United States",9
+13746896,South Boston,Apartment,Entire home/apt,1,1.0,4,199.0,100,"Melcher Street, Boston, MA 02210, United States",10
+13605196,South Boston,Apartment,Entire home/apt,1,1.0,3,145.0,100,"East 4th Street, Boston, MA 02127, United States",10
+8747720,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,225.0,100,"Charles Street, Boston, MA 02114, United States",10
+5588537,South End,Apartment,Entire home/apt,2,1.0,2,200.0,100,"Montgomery Street, Boston, MA 02116, United States",10
+7789429,Jamaica Plain,Apartment,Entire home/apt,2,1.0,5,225.0,100,"Marbury Terrace, Boston, MA 02130, United States",10
+10634364,South End,Apartment,Entire home/apt,1,1.0,4,149.0,100,"Warren Avenue, Boston, MA 02116, United States",10
+8460627,Fenway/Kenmore,Apartment,Private room,1,1.0,1,100.0,100,"Boston, MA 02115, United States",10
+8275122,Jamaica Plain,Apartment,Private room,1,1.0,2,100.0,100,"Sheridan Street, Boston, MA 02130, United States",10
+11474629,South Boston,Apartment,Entire home/apt,1,1.0,4,175.0,100,"Bowen Street, Boston, MA 02127, United States",10
+5445126,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,175.0,100,"River Street, Boston, MA 02108, United States",10
+10034183,South Boston,Apartment,Entire home/apt,1,2.0,2,135.0,100,"Springer Street, Boston, MA 02127, United States",10
+14221294,Fenway/Kenmore,Apartment,Private room,1,1.0,2,75.0,100,"Boylston Street, Boston, MA 02215, United States",10
+9459945,Jamaica Plain,Apartment,Private room,1,1.0,2,55.0,100,"Jamaicaway, Boston, MA 02130, United States",9
+9364092,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,158.0,100,"Hemenway Street, Boston, MA 02115, United States",10
+14414473,Roxbury,Apartment,Entire home/apt,1,1.0,2,125.0,100,"Highland Street, Boston, MA 02119, United States",9
+8325477,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,275.0,100,"Boston, MA 02114, United States",10
+8828147,South Boston,Apartment,Shared room,1,1.0,1,159.0,100,"A Street, Boston, MA 02210, United States",10
+12891323,East Boston,Apartment,Private room,1,1.0,2,85.0,100,"Chelsea Street, Boston, MA 02128, United States",10
+8310660,Allston-Brighton,Apartment,Private room,1,1.0,2,75.0,100,"Gardner Street, Boston, MA 02134, United States",9
+12143408,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,220.0,100,"Chestnut Street, Boston, MA 02108, United States",10
+8481291,Jamaica Plain,Apartment,Private room,1,1.0,2,69.0,100,"Montebello Road, Boston, MA 02130, United States",10
+14426124,South Boston,Apartment,Private room,1,1.0,2,90.0,100,"Hart Place, Boston, MA 02127, United States",10
+13015653,Brookline,Apartment,Private room,1,1.0,1,39.0,100,"Brookline Hill, Brookline, MA 02445, United States",10
+5891012,Dorchester,Apartment,Shared room,1,2.0,1,60.0,100,"Pleasant Street, Boston, MA 02125, United States",10
+8226982,Jamaica Plain,Apartment,Private room,1,1.0,3,67.0,100,"Chestnut Ave, Boston, MA 02130, United States",9
+8613870,Charlestown,Apartment,Private room,1,1.0,3,150.0,100,"Franklin Street, Boston, MA 02129, United States",10
+13642397,North End,Apartment,Entire home/apt,1,1.0,2,120.0,100,"Henchman Street, Boston, MA 02113, United States",10
+13546070,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,239.0,100,"Miner Street, Boston, MA 02215, United States",10
+6000531,Charlestown,Apartment,Entire home/apt,1,1.0,3,249.0,100,"Main Street, Boston, MA 02129, United States",10
+13813380,Chinatown,Apartment,Private room,1,1.0,2,300.0,100,"Washington Street, Boston, MA 02111, United States",10
+11788394,Fenway/Kenmore,Apartment,Private room,1,1.0,2,220.0,100,"Bay State Road, Boston, MA 02215, United States",10
+1401625,South End,Apartment,Entire home/apt,1,1.0,2,255.0,100,"Columbus Avenue, Boston, MA 02118, United States",10
+13872339,Back Bay,Apartment,Entire home/apt,2,1.0,4,329.0,100,"Appleton Street, Boston, MA 02116, United States",10
+12268144,Back Bay,Apartment,Private room,1,1.0,1,200.0,100,"Hereford Street, Boston, MA 02115, United States",10
+7698631,Back Bay,Apartment,Entire home/apt,2,2.0,6,300.0,100,"Beacon Street, Boston, MA 02116, United States",10
+2880944,Jamaica Plain,Apartment,Entire home/apt,2,2.0,4,185.0,100,"Burroughs Street, Boston, MA 02130, United States",10
+12587887,South End,Apartment,Entire home/apt,2,1.0,4,279.0,100,"East Brookline Street, Boston, MA 02118, United States",10
+12626504,Back Bay,Apartment,Entire home/apt,1,1.0,2,190.0,100,"Commonwealth Avenue, Boston, MA 02115, United States",10
+2821921,Theater District,Apartment,Entire home/apt,2,2.0,4,329.0,100,"Washington Street, Boston, MA 02111, United States",8
+4080849,Back Bay,Apartment,Entire home/apt,1,1.0,4,250.0,100,"Saint Botolph Street, Boston, MA 02115, United States",10
+10186477,Fenway/Kenmore,Apartment,Private room,1,1.0,2,50.0,100,"Aberdeen Street, Boston, MA 02215, United States",10
+12508801,South End,Apartment,Entire home/apt,1,1.0,2,200.0,100,"Warren Avenue, Boston, MA 02116, United States",10
+10279083,West Roxbury,Apartment,Private room,1,1.0,2,80.0,100,"Bradfield Avenue, Boston, MA 02131, United States",9
+11905849,Back Bay,Apartment,Entire home/apt,1,1.0,2,207.0,100,"Garrison Street, Boston, MA 02116, United States",10
+737519,Dorchester,Apartment,Entire home/apt,2,1.0,2,120.0,100,"King St, Boston, MA 02122, United States",9
+12949270,Jamaica Plain,Apartment,Private room,1,1.0,2,65.0,100,"Parkton Road, Boston, MA 02130, United States",10
+6027467,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,239.0,100,"Brookline Avenue, Boston, MA 02215, United States",10
+12971329,Dorchester,Apartment,Private room,1,1.0,2,55.0,100,"Bailey Street, Boston, MA 02124, United States",10
+5727231,South Boston,Apartment,Entire home/apt,2,1.0,4,159.0,100,"Barrett Avenue, Boston, MA 02127, United States",10
+6939759,North End,Apartment,Entire home/apt,2,1.0,4,200.0,100,"Fulton Street, Boston, MA 02109, United States",10
+14124430,Beacon Hill,Apartment,Entire home/apt,2,1.0,7,250.0,100,"Garden Street, Boston, MA 02114, United States",10
+7582651,North End,Apartment,Entire home/apt,2,1.0,4,220.0,100,"Prince Street, Boston, MA 02113, United States",10
+9183638,Chinatown,Apartment,Entire home/apt,2,2.0,4,179.0,100,"Hudson Street, Boston, MA 02111, United States",9
+7982359,South Boston,Apartment,Entire home/apt,2,2.0,5,603.0,100,"Park Lane, Boston, MA 02210, United States",10
+5851489,South Boston,Apartment,Private room,1,1.0,1,169.0,100,"West 2nd Street, Boston, MA 02127, United States",10
+2769450,West End,Apartment,Entire home/apt,1,1.0,3,280.0,100,"Blossom Street, Boston, MA 02114, United States",10
+13449049,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,140.0,100,"Gainsborough Street, Boston, MA 02115, United States",10
+11885653,Financial District,Apartment,Private room,1,1.0,4,135.0,100,"Custom House Tower, 3 McKinley Square, Boston, MA 02109, United States",10
+11990528,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,155.0,100,"Massachusetts Avenue, Boston, MA 02115, United States",10
+9685076,Dorchester,Apartment,Private room,1,1.0,1,35.0,100,"Boston, MA 02121, United States",9
+14843783,South Boston,Apartment,Entire home/apt,2,2.0,5,349.0,100,"A Street, Boston, MA 02210, United States",10
+12608363,Mission Hill,Apartment,Private room,1,1.0,1,60.0,100,"Worthington Street, Roxbury Crossing, MA 02120, United States",9
+3342206,Chinatown,Apartment,Entire home/apt,2,2.0,5,285.0,100,"Kingston Street, Boston, MA 02111, United States",10
+8052494,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,143.0,100,"Myrtle Street, Boston, MA 02114, United States",10
+7280665,Mission Hill,Apartment,Shared room,1,1.0,1,40.0,100,"C Smith Street, Boston, MA 02120, United States",10
+7054912,West End,Apartment,Entire home/apt,1,1.0,2,225.0,100,"Beverly Street, Boston, MA 02114, United States",10
+10611728,Chinatown,Apartment,Entire home/apt,1,1.0,3,219.0,100,"Kingston Street, Boston, MA 02111, United States",10
+7185881,Hyde Park,Apartment,Private room,1,1.0,1,45.0,100,"Hyde Park Avenue, Boston, MA 02136, United States",8
+10478553,Mission Hill,Apartment,Private room,1,1.0,2,100.0,100,"Oswald Street, Roxbury Crossing, MA 02120, United States",10
+14506396,Chinatown,Apartment,Private room,1,1.0,2,95.0,100,"Hudson Street, Boston, MA 02111, United States",9
+10117329,Chinatown,Apartment,Entire home/apt,2,2.0,5,299.0,100,"Washington Street, Boston, MA 02116, United States",10
+12707324,Mission Hill,Apartment,Private room,1,1.0,1,41.0,100,"Riverway, Boston, MA 02115, United States",10
+13435185,Fenway/Kenmore,Apartment,Private room,1,1.0,2,63.0,100,"Burbank Street, Boston, MA 02115, United States",10
+8758450,Allston-Brighton,Apartment,Private room,1,1.0,2,85.0,100,"Commonwealth Avenue, Boston, MA 02134, United States",10
+14368660,Fenway/Kenmore,Apartment,Private room,1,1.0,1,99.0,100,"Commonwealth Avenue, Boston, MA 02215, United States",10
+4461901,South End,Apartment,Private room,1,1.0,2,155.0,100,"Columbus Avenue, Boston, MA 02116, United States",10
+13968572,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,150.0,100,"Norway Street, Boston, MA 02115, United States",10
+6291807,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,119.0,100,"Woodlawn Street, Boston, MA 02130, United States",10
+9331460,North End,Apartment,Private room,1,1.0,2,103.0,100,"Fulton Street, Boston, MA 02109, United States",10
+4978467,Beacon Hill,Apartment,Entire home/apt,2,1.0,2,250.0,100,"Revere Street, Boston, MA 02114, United States",10
+7454907,North End,Apartment,Entire home/apt,2,1.0,4,185.0,100,"Prince Street, Boston, MA 02113, United States",10
+14461747,Dorchester,Apartment,Private room,1,1.0,1,165.0,100,"Sawyer Avenue, Boston, MA 02125, United States",10
+8336347,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,319.0,100,"Brookline Avenue, Boston, MA 02215, United States",10
+11592154,Fenway/Kenmore,Apartment,Private room,1,1.0,2,298.0,100,"Bay State Road, Boston, MA 02215, United States",10
+13996398,Allston-Brighton,Apartment,Private room,1,1.0,2,50.0,100,"Glenville Avenue, Boston, MA 02134, United States",10
+13078025,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,300.0,100,"Boylston Street, Boston, MA 02215, United States",10
+14778561,Hyde Park,Apartment,Private room,1,2.0,1,70.0,100,"Highland Street, Boston, MA 02136, United States",10
+7724412,Roxbury,Apartment,Private room,1,1.0,2,130.0,100,"Northampton Street, Boston, MA 02118, United States",10
+13265095,Allston-Brighton,Apartment,Entire home/apt,2,1.0,4,120.0,100,"Commonwealth Avenue, Boston, MA 02135, United States",10
+14592547,Brookline,Apartment,Private room,1,1.0,2,89.0,100,"Verndale Street, Brookline, MA 02446, United States",10
+13801598,Allston-Brighton,Apartment,Private room,1,1.0,2,60.0,100,"Commonwealth Avenue, Boston, MA 02215, United States",10
+8134231,East Boston,Apartment,Entire home/apt,2,1.0,6,300.0,100,"Chelsea Street, Boston, MA 02128, United States",10
+6400348,Beacon Hill,Apartment,Private room,1,1.0,2,200.0,100,"River Street, Boston, MA 02108, United States",10
+13622776,Dorchester,Apartment,Entire home/apt,1,1.0,3,85.0,100,"Beaumont Street, Boston, MA 02124, United States",10
+14443295,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,75.0,100,"Chester Street, Boston, MA 02134, United States",10
+8921130,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,129.0,100,"Brainerd Road, Boston, MA 02134, United States",
+8189821,Charlestown,Apartment,Private room,1,1.0,2,200.0,100,"Soley Street, Boston, MA 02129, United States",10
+10208321,Allston-Brighton,Apartment,Private room,1,1.0,2,50.0,100,"Arden Street, Boston, MA 02134, United States",9
+8161218,Roxbury,Apartment,Private room,1,1.0,2,100.0,100,"Hartford Street, Boston, MA 02125, United States",10
+9078482,Allston-Brighton,Apartment,Private room,1,2.0,2,45.0,100,"Commonwealth Avenue, Boston, MA 02134, United States",9
+8461819,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,70.0,100,"Washington Street, Boston, MA 02135, United States",10
+11474130,Fenway/Kenmore,Apartment,Private room,1,1.0,1,100.0,100,"Beacon Street, Boston, MA 02215, United States",10
+6684904,Mission Hill,Apartment,Entire home/apt,1,1.0,3,246.0,100,"Saint Alphonsus Street, Boston, MA 02120, United States",8
+7240775,West End,Apartment,Entire home/apt,2,2.0,4,329.0,100,"Beverly Street, Boston, MA 02114, United States",10
+13249829,Beacon Hill,Apartment,Entire home/apt,2,1.0,4,128.0,100,"Grove Street, Boston, MA 02114, United States",10
+14071446,Jamaica Plain,Apartment,Private room,1,1.0,2,65.0,100,"Parkton Road, Boston, MA 02130, United States",10
+14711359,Back Bay,Apartment,Private room,1,1.0,2,135.0,100,"Beacon Street, Boston, MA 02116, United States",10
+10050351,South Boston,Apartment,Entire home/apt,1,1.0,3,169.0,100,"Seaport Boulevard, Boston, MA 02210, United States",10
+13015927,Back Bay,Apartment,Entire home/apt,1,1.0,2,199.0,100,"Garrison Street, Boston, MA 02116, United States",10
+7093109,Roslindale,Apartment,Entire home/apt,2,1.0,6,200.0,100,"Hyde Park Avenue, Boston, MA 02131, United States",9
+8680170,South End,Apartment,Entire home/apt,2,2.0,2,250.0,100,"Chandler Street, Boston, MA 02116, United States",10
+13239143,Dorchester,Apartment,Private room,1,1.0,1,35.0,100,"Olney Street, Boston, MA 02121, United States",10
+14402688,Allston-Brighton,Apartment,Private room,1,1.0,2,55.0,100,"Melvin Avenue, Boston, MA 02135, United States",10
+6921241,Back Bay,Apartment,Entire home/apt,1,1.0,4,230.0,100,"Gloucester Street, Boston, MA 02115, United States",10
+7006683,Dorchester,Apartment,Private room,1,2.0,2,80.0,100,"Pleasant Street, Boston, MA 02125, United States",10
+8272350,Jamaica Plain,Apartment,Private room,1,1.0,2,99.0,100,"Sheridan Street, Boston, MA 02130, United States",10
+14522631,South End,Apartment,Entire home/apt,1,1.0,4,139.0,100,"Tremont Street, Boston, MA 02118, United States",10
+9473816,Back Bay,Apartment,Entire home/apt,1,1.0,5,159.0,100,"Marlborough Street, Boston, MA 02116, United States",10
+1961034,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,114.0,100,"Commonwealth Avenue, Boston, MA 02135, United States",10
+9349646,Jamaica Plain,Apartment,Private room,1,1.0,2,100.0,100,"Williams Street, Boston, MA 02130, United States",10
+6287797,South End,Apartment,Private room,1,1.0,2,90.0,100,"Washington Street, Boston, MA 02118, United States",10
+4644455,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,197.0,100,"Irving Street, Boston, MA 02114, United States",10
+5447285,Allston-Brighton,Apartment,Shared room,1,1.0,2,44.0,100,"Egremont Road, Boston, MA 02135, United States",10
+13282275,South Boston,Apartment,Entire home/apt,1,1.0,1,134.0,100,"L Street, Boston, MA 02127, United States",10
+13090471,Back Bay,Apartment,Private room,1,1.0,1,80.0,100,"Huntington Avenue, Boston, MA 02115, United States",10
+5932267,South End,Apartment,Entire home/apt,1,1.0,2,250.0,100,"Worcester Square, Boston, MA 02118, United States",10
+54487,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,309.0,100,"Brookline Ave, Boston, MA 02215, United States",
+771309,Dorchester,Apartment,Private room,1,1.0,1,58.0,100,"Savin Hill Ave, Boston, MA 02125, United States",10
+951480,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,4,349.0,100,"Brookline Avenue, Boston, MA 02215, United States",10
+9343915,Back Bay,Apartment,Private room,1,1.0,2,185.0,100,"Garrison Street, Boston, MA 02116, United States",10
+13281106,Dorchester,Apartment,Entire home/apt,2,1.0,3,150.0,100,"Burt Street, Boston, MA 02124, United States",
+10860611,Back Bay,Apartment,Private room,1,1.0,2,120.0,100,"Hereford Street, Boston, MA 02115, United States",10
+1214214,South End,Apartment,Entire home/apt,2,2.0,3,450.0,100,"Tremont Street, Boston, MA 02118, United States",10
+7939556,Dorchester,Apartment,Private room,1,1.0,2,100.0,100,"Boston Street, Boston, MA 02125, United States",8
+9991857,Back Bay,Apartment,Entire home/apt,2,2.0,5,319.0,100,"Garrison Street, Boston, MA 02116, United States",10
+13363171,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,100.0,100,"Porter Street, Boston, MA 02130, United States",10
+12034317,South End,Apartment,Entire home/apt,1,1.0,4,200.0,100,"Rutland Street, Boston, MA 02118, United States",10
+14486237,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,300.0,100,"Boylston Street, Boston, MA 02215, United States",8
+14469894,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,300.0,100,"Boylston Street, Boston, MA 02215, United States",10
+7592616,South End,Apartment,Entire home/apt,1,1.0,2,140.0,100,"Shawmut Avenue, Boston, MA 02118, United States",10
+9390951,East Boston,Apartment,Private room,1,1.0,2,125.0,100,"Marginal Street, Boston, MA 02128, United States",10
+9508975,South End,Apartment,Entire home/apt,2,1.0,4,300.0,100,"East Brookline Street, Boston, MA 02118, United States",10
+14074739,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,175.0,100,"Myrtle Street, Boston, MA 02114, United States",10
+8309604,South End,Apartment,Entire home/apt,2,1.0,4,290.0,100,"Clarendon Street, Boston, MA 02116, United States",10
+14533011,East Boston,Apartment,Private room,1,1.0,4,90.0,100,"Brandywyne Drive, Boston, MA 02128, United States",10
+13017460,Back Bay,Apartment,Entire home/apt,1,1.0,2,232.0,100,"Saint Botolph Street, Boston, MA 02116, United States",10
+13221129,South Boston,Apartment,Entire home/apt,1,1.0,3,189.0,100,"Seaport Boulevard, Boston, MA 02210, United States",10
+11410652,Dorchester,Apartment,Entire home/apt,2,1.0,4,250.0,100,"Savin Hill Avenue, Boston, MA 02125, United States",10
+10051357,South Boston,Apartment,Entire home/apt,2,2.0,5,199.0,100,"Seaport Boulevard, Boston, MA 02210, United States",10
+13555596,South Boston,Apartment,Entire home/apt,1,1.0,2,140.0,100,"Grace Court, Boston, MA 02127, United States",10
+8146576,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,319.0,100,"Brookline Avenue, Boston, MA 02215, United States",10
+12973308,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,300.0,100,"Boylston Street, Boston, MA 02215, United States",10
+5590505,South Boston,Apartment,Entire home/apt,1,1.0,2,225.0,100,"E Street, Boston, MA 02127, United States",10
+10054046,South Boston,Apartment,Entire home/apt,1,1.0,3,169.0,100,"Seaport Boulevard, Boston, MA 02210, United States",10
+12208307,South Boston,Apartment,Private room,1,1.0,1,70.0,100,"Gold Street, Boston, MA 02127, United States",10
+14663743,South Boston,Apartment,Entire home/apt,2,2.0,7,225.0,100,"D Street, Boston, MA 02127, United States",10
+12022134,Jamaica Plain,Apartment,Private room,1,2.0,2,92.0,100,"Hathaway Street, Boston, MA 02130, United States",10
+13655073,Charlestown,Apartment,Entire home/apt,1,1.0,4,150.0,100,"Cordis Street, Boston, MA 02129, United States",10
+13530359,Allston-Brighton,Apartment,Private room,1,2.0,1,45.0,100,"Pratt Street, Boston, MA 02134, United States",10
+7678756,East Boston,Apartment,Entire home/apt,1,1.0,2,95.0,100,"Lexington Street, Boston, MA 02128, United States",4
+12873559,Allston-Brighton,Apartment,Private room,1,1.0,2,80.0,100,"Gardner Street, Boston, MA 02134, United States",10
+12592696,Allston-Brighton,Apartment,Private room,1,1.0,1,90.0,100,"Commonwealth Avenue, Boston, MA 02134, United States",10
+6951829,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,319.0,100,"Brookline Avenue, Boston, MA 02215, United States",10
+11528125,Allston-Brighton,Apartment,Private room,1,1.0,2,50.0,100,"Commonwealth Avenue, Boston, MA 02215, United States",10
+11866869,East Boston,Apartment,Private room,1,1.0,4,70.0,100,"Maverick Street, Boston, MA 02128, United States",10
+11087731,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,4,100.0,100,"Saint Stephen Street, Boston, MA 02115, United States",10
+11036835,Allston-Brighton,Apartment,Private room,1,1.0,1,90.0,100,"Easton Street, Boston, MA 02134, United States",10
+8097453,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,169.0,100,"Brookline Avenue, Boston, MA 02215, United States",2
+6844012,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,199.0,100,"Brookline Avenue, Boston, MA 02215, United States",10
+12262803,Allston-Brighton,Apartment,Private room,1,1.0,2,125.0,100,"Westford Street, Boston, MA 02134, United States",10
+9541666,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,150.0,100,"Commonwealth Avenue, Boston, MA 02134, United States",10
+9905304,Chinatown,Apartment,Entire home/apt,2,1.0,6,375.0,100,"Washington Street, Boston, MA 02116, United States",10
+14683493,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,149.0,100,"Agassiz Park, Boston, MA 02130, United States",10
+5719606,Charlestown,Apartment,Entire home/apt,2,2.0,3,330.0,100,"Chestnut Street, Charlestown, MA 02129, United States",10
+13028247,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,70.0,100,"Soldiers Field Road, Boston, MA 02163, United States",10
+8029788,Allston-Brighton,Apartment,Entire home/apt,2,1.0,3,200.0,100,"Bellvista Road, Boston, MA 02134, United States",8
+14360470,Fenway/Kenmore,Apartment,Private room,1,1.0,1,70.0,100,"Westland Avenue, Boston, MA 02115, United States",10
+6790961,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,319.0,100,"Fenway Triangle Trilogy, 180 Brookline Avenue, Boston, MA 02215, United States",10
+9470342,Allston-Brighton,Apartment,Private room,1,1.0,2,50.0,100,"Kelton Street, Boston, MA 02134, United States",8
+13374823,Allston-Brighton,Apartment,Private room,1,1.0,2,85.0,100,"Sutherland Road, Boston, MA 02135, United States",10
+9137560,Jamaica Plain,Apartment,Private room,1,1.0,2,80.0,100,"Arborway, Boston, MA 02130, United States",10
+12274601,Jamaica Plain,Apartment,Private room,1,1.0,1,65.0,100,"Leland Street, Boston, MA 02130, United States",10
+9865550,Jamaica Plain,Apartment,Entire home/apt,1,1.0,4,75.0,100,"Cornwall Street, Boston, MA 02130, United States",8
+11572070,South Boston,Apartment,Entire home/apt,1,1.0,4,200.0,100,"Park Lane, Boston, MA 02210, United States",10
+14823724,Back Bay,Apartment,Entire home/apt,1,1.0,6,200.0,100,"Massachusetts Avenue, Boston, MA 02115, United States",10
+13684319,Allston-Brighton,Apartment,Private room,1,1.0,1,39.0,100,"Portsmouth Street, Boston, MA 02135, United States",10
+11398458,Back Bay,Apartment,Entire home/apt,1,1.0,3,350.0,100,"Stuart Street, Boston, MA 02116, United States",10
+12303347,Chinatown,Apartment,Entire home/apt,1,1.0,3,219.0,100,"Kingston Street, Boston, MA 02111, United States",10
+11985521,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,169.0,100,"Boylston Street, Boston, MA 02215, United States",10
+12302222,Chinatown,Apartment,Entire home/apt,2,2.0,5,399.0,100,"Kingston Street, Boston, MA 02111, United States",10
+4489920,West End,Apartment,Entire home/apt,1,1.0,3,209.0,100,"Emerson Place, Boston, MA 02114, United States",10
+10116429,Chinatown,Apartment,Entire home/apt,1,1.0,3,169.0,100,"Washington Street, Boston, MA 02116, United States",10
+10116601,Chinatown,Apartment,Entire home/apt,1,1.0,3,169.0,100,"Washington Street, Boston, MA 02116, United States",10
+13866603,Fenway/Kenmore,Apartment,Private room,1,1.0,2,80.0,100,"Park Drive, Boston, MA 02215, United States",10
+6693305,Jamaica Plain,Apartment,Private room,1,1.0,2,65.0,100,"Forbes Street, Boston, MA 02130, United States",10
+12899026,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,232.0,100,"Massachusetts Ave, Boston, MA 02115, United States",10
+12986016,Chinatown,Apartment,Entire home/apt,1,1.0,3,199.0,100,"Kneeland Street, Boston, MA 02111, United States",8
+10033715,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,199.0,100,"Boylston Street, Boston, MA 02215, United States",10
+14104621,North End,Apartment,Entire home/apt,1,1.0,2,200.0,100,"Tileston Street, Boston, MA 02113, United States",10
+14760739,Theater District,Apartment,Private room,1,1.0,1,80.0,100,"Tremont Street, Boston, MA 02116, United States",10
+11983535,Chinatown,Apartment,Entire home/apt,2,2.0,5,199.0,100,"Washington Street, Boston, MA 02116, United States",10
+14572511,North End,Apartment,Entire home/apt,1,1.0,4,250.0,100,"Salem Street, Boston, MA 02113, United States",10
+13532311,South Boston,Apartment,Entire home/apt,2,1.0,7,250.0,100,"Telegraph Street, Boston, MA 02127, United States",10
+7080514,North End,Apartment,Private room,1,1.0,2,130.0,100,"Thacher Street, Boston, MA 02113, United States",10
+9922595,Chinatown,Apartment,Entire home/apt,1,1.0,3,169.0,100,"Washington Street, Boston, MA 02116, United States",10
+5768195,North End,Apartment,Private room,1,1.0,2,175.0,100,"Thacher St, Boston, MA 02113, United States",10
+4653267,North End,Apartment,Entire home/apt,1,1.0,4,235.0,100,"Wesley Place, Boston, MA 02113, United States",10
+14693220,South Boston,Apartment,Entire home/apt,1,1.0,3,150.0,100,"D Street, Boston, MA 02127, United States",10
+7841193,South Boston,Apartment,Private room,1,1.0,1,85.0,100,"O Street, Boston, MA 02127, United States",10
+4644069,Fenway/Kenmore,Apartment,Private room,1,1.0,2,110.0,100,"Brookline Avenue, Boston, MA 02215, United States",10
+13824970,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,198.0,100,"Commonwealth Avenue, Boston, MA 02135, United States",10
+6921672,Jamaica Plain,Apartment,Entire home/apt,2,2.0,4,250.0,100,"Paul Gore Street, Boston, MA 02130, United States",10
+13298137,Roxbury,Apartment,Private room,1,1.0,1,33.0,100,"Maywood Street, Boston, MA 02119, United States",10
+12998272,Back Bay,Apartment,Entire home/apt,2,1.0,5,286.0,100,"Commonwealth Avenue, Boston, MA 02115, United States",10
+14742722,Beacon Hill,Apartment,Private room,1,1.0,1,100.0,100,"Mount Vernon Street, Boston, MA 02108, United States",10
+8518665,South End,Apartment,Entire home/apt,1,1.0,4,169.0,100,"Harrison Avenue, Boston, MA 02118, United States",10
+12384469,South End,Apartment,Entire home/apt,1,1.0,2,150.0,100,"East Brookline Street, Boston, MA 02118, United States",10
+10411383,East Boston,Apartment,Entire home/apt,2,1.0,5,250.0,100,"Chelsea Street, Boston, MA 02128, United States",10
+14414330,South End,Apartment,Entire home/apt,2,1.0,4,275.0,100,"Claremont Park, Boston, MA 02118, United States",10
+13699440,Dorchester,Apartment,Entire home/apt,2,1.0,4,175.0,100,"Dix Street, Boston, MA 02122, United States",10
+13242393,Dorchester,Apartment,Private room,1,1.0,1,39.0,100,"Olney Street, Boston, MA 02121, United States",10
+2947662,Beacon Hill,Apartment,Entire home/apt,2,1.0,6,299.0,99,"South Russell Street, Boston, MA 02114, United States",10
+2277821,Back Bay,Apartment,Entire home/apt,2,2.0,5,425.0,99,"Gloucester Street, Boston, MA 02115, United States",10
+7287822,Jamaica Plain,Apartment,Entire home/apt,1,1.0,4,130.0,99,"Rockview Street, Boston, MA 02130, United States",10
+4262255,Jamaica Plain,Apartment,Private room,1,1.0,2,80.0,99,"Rossmore Road, Boston, MA 02130, United States",10
+2167993,Charlestown,Apartment,Entire home/apt,1,1.0,2,149.0,99,"13th Street, Boston, MA 02129, United States",9
+3229255,Roslindale,Apartment,Entire home/apt,1,1.0,3,95.0,99,"Pinehurst Street, Boston, MA 02131, United States",10
+8458210,North End,Apartment,Entire home/apt,2,1.0,6,325.0,99,"Commercial Street, Boston, MA 02109, United States",10
+8595650,South End,Apartment,Entire home/apt,1,1.0,4,200.0,99,"Ringgold Street, Boston, MA 02118, United States",10
+962610,West Roxbury,Apartment,Entire home/apt,1,1.0,2,119.0,99,"Centre Street, Boston, MA 02131, United States",9
+4995033,Beacon Hill,Apartment,Entire home/apt,2,1.0,3,220.0,99,"Garden Street, Boston, MA 02114, United States",10
+9218362,South Boston,Apartment,Entire home/apt,1,1.0,3,214.0,99,"Park Lane, Boston, MA 02210, United States",10
+9231486,Back Bay,Apartment,Entire home/apt,2,2.0,6,375.0,99,"Commonwealth Avenue, Boston, MA 02115, United States",10
+8471852,Beacon Hill,Apartment,Entire home/apt,1,1.0,1,120.0,99,"North Margin Street, Boston, MA 02113, United States",10
+5004278,South Boston,Apartment,Entire home/apt,1,1.0,2,175.0,99,"H Street, Boston, MA 02127, United States",10
+10542140,Back Bay,Apartment,Entire home/apt,2,1.0,4,350.0,99,"Commonwealth Avenue, Boston, MA 02115, United States",10
+3842286,South End,Apartment,Entire home/apt,1,1.0,4,189.0,99,"Dartmouth Place, Boston, MA 02116, United States",10
+197727,Jamaica Plain,Apartment,Private room,1,1.0,1,85.0,99,"Dunster Rd, Boston, MA 02130, United States",10
+6444303,South End,Apartment,Private room,1,1.0,2,217.0,99,"West Brookline Street, Boston, MA 02118, United States",10
+10032327,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,210.0,99,"Brainerd Road, Boston, MA 02134, United States",10
+7804358,Back Bay,Apartment,Entire home/apt,1,1.0,2,225.0,99,"Newbury Street, Boston, MA 02116, United States",10
+12092499,Back Bay,Apartment,Entire home/apt,1,1.0,3,200.0,99,"Marlborough Street, Boston, MA 02115, United States",10
+13655923,Dorchester,Apartment,Private room,1,1.0,2,60.0,99,"Pleasant Street, Boston, MA 02125, United States",9
+11082235,Back Bay,Apartment,Entire home/apt,1,1.0,3,299.0,99,"Newbury Street, Boston, MA 02116, United States",10
+8366402,South Boston,Apartment,Entire home/apt,1,1.0,2,180.0,99,"D Street, Boston, MA 02210, United States",10
+2215762,South End,Apartment,Entire home/apt,1,1.0,2,185.0,99,"Tremont Street, Boston, MA 02118, United States",10
+7965521,South End,Apartment,Entire home/apt,1,1.0,2,215.0,99,"Dartmouth Street, Boston, MA 02116, United States",10
+9725178,Back Bay,Apartment,Entire home/apt,1,1.0,2,205.0,99,"Marlborough Street, Boston, MA 02116, United States",10
+9279773,Dorchester,Apartment,Private room,1,1.0,2,70.0,99,"Savin Hill Avenue, Boston, MA 02125, United States",10
+708802,Charlestown,Apartment,Entire home/apt,1,1.0,4,150.0,98,"Elm St, Charlestown, MA 02129, United States",10
+3987926,Jamaica Plain,Apartment,Private room,1,1.0,2,60.0,98,"Washington Street, Boston, MA 02131, United States",9
+5709298,Beacon Hill,Apartment,Entire home/apt,2,1.0,4,220.0,98,"Anderson Street, Boston, MA 02114, United States",10
+1936861,Roslindale,Apartment,Private room,1,1.0,1,60.0,98,"Fletcher Street, Boston, MA 02131, United States",9
+2698996,Jamaica Plain,Apartment,Private room,1,1.0,2,75.0,98,"Pond Street, Boston, MA 02130, United States",10
+3985462,Back Bay,Apartment,Entire home/apt,1,1.0,3,199.0,98,"Marlborough Street, Boston, MA 02115, United States",10
+4793787,Dorchester,Apartment,Private room,1,1.0,2,45.0,98,"Sydney Street, Boston, MA 02125, United States",10
+3528826,Back Bay,Apartment,Entire home/apt,1,1.0,4,239.0,98,"Beacon Street, Boston, MA 02116, United States",10
+4586590,South Boston,Apartment,Private room,1,1.0,2,99.0,98,"Preble Street, Boston, MA 02127, United States",9
+994138,South Boston,Apartment,Private room,1,1.0,3,150.0,98,"Emmet Street, Boston, MA 02127, United States",9
+6954861,Allston-Brighton,Apartment,Private room,1,1.0,2,110.0,98,"Beacon Street, Brookline, MA 02445, United States",10
+4263736,Roxbury,Apartment,Private room,1,1.0,2,125.0,98,"Alvah Kittredge Park, Boston, MA 02119, United States",9
+3890373,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,225.0,98,"Joy Street, Boston, MA 02114, United States",10
+5889190,Allston-Brighton,Apartment,Private room,1,1.0,2,95.0,98,"Gardner Street, Allston, MA 02134, United States",10
+6452246,Chinatown,Apartment,Private room,1,2.0,2,159.0,98,"Hudson Street, Boston, MA 02111, United States",10
+7330494,South Boston,Apartment,Entire home/apt,1,1.0,2,150.0,98,"Ward Street, Boston, MA 02127, United States",9
+1322461,Back Bay,Apartment,Entire home/apt,1,1.0,2,174.0,98,"Dartmouth Street, Boston, MA 02116, United States",10
+2183058,North End,Apartment,Entire home/apt,1,1.0,4,175.0,98,"North Bennet Court, Boston, MA 02113, United States",10
+7181950,North End,Apartment,Entire home/apt,1,1.0,4,199.0,98,"North Street, Boston, MA 02113, United States",10
+7714627,South End,Apartment,Entire home/apt,1,1.0,3,235.0,98,"Waltham Street, Boston, MA 02118, United States",10
+2564544,South Boston,Apartment,Private room,1,1.0,2,179.0,98,"A Street, Boston, MA 02210, United States",10
+3377100,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,245.0,98,"Revere Street, Boston, MA 02114, United States",10
+6296656,South Boston,Apartment,Entire home/apt,2,1.0,5,250.0,98,"East Broadway, Boston, MA 02127, United States",10
+4996375,South Boston,Apartment,Private room,1,1.0,2,119.0,98,"Bolton Street, Boston, MA 02127, United States",10
+2915595,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,299.0,98,"Beacon Street, Boston, MA 02215, United States",10
+196806,Fenway/Kenmore,Apartment,Shared room,1,1.0,1,79.0,98,"Massachusetts Ave, Boston, MA 02115, United States",10
+3032367,North End,Apartment,Entire home/apt,1,1.0,2,135.0,98,"Fleet Street, Boston, MA 02113, United States",10
+6976,Roslindale,Apartment,Private room,1,1.0,2,65.0,98,"Ardale St., Boston, MA 02131, United States",9
+442735,South End,Apartment,Entire home/apt,2,1.0,5,250.0,98,"Shawmut Avenue, Boston, MA 02118, United States",10
+8734707,Roxbury,Apartment,Private room,1,1.0,2,90.0,98,"Alvah Kittredge Park, Boston, MA 02119, United States",9
+9698226,East Boston,Apartment,Private room,1,1.0,2,120.0,98,"Leyden Street, Boston, MA 02128, United States",9
+12916551,South End,Apartment,Entire home/apt,1,1.0,6,159.0,98,"Columbus Avenue, Boston, MA 02118, United States",10
+10227043,South End,Apartment,Entire home/apt,2,2.0,4,350.0,98,"Dartmouth Street, Boston, MA 02116, United States",10
+2308630,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,200.0,98,"Sedgwick Street, Boston, MA 02130, United States",10
+12052288,Jamaica Plain,Apartment,Entire home/apt,1,1.0,4,130.0,98,"Dalrymple Street, Boston, MA 02130, United States",9
+13054720,Roxbury,Apartment,Entire home/apt,1,1.0,2,135.0,98,"Greenwich Street, Boston, MA 02120, United States",9
+5743939,Beacon Hill,Apartment,Entire home/apt,2,1.0,6,324.0,98,"Cambridge Street, Boston, MA 02114, United States",10
+3079305,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,150.0,98,"South Street, Boston, MA 02130, United States",9
+5371687,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,249.0,98,"Beacon Street, Boston, MA 02108, United States",10
+11334091,East Boston,Apartment,Private room,1,1.0,1,75.0,98,"Eutaw Street, Boston, MA 02128, United States",10
+1131634,West End,Apartment,Entire home/apt,1,1.0,4,219.0,98,"Longfellow Place, Boston, MA 02114, United States",10
+13275308,Financial District,Apartment,Entire home/apt,2,2.0,6,375.0,98,"Milk Street, Boston, MA 02109, United States",10
+8428314,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,225.0,98,"Boston, MA 02215, United States",10
+8384444,Beacon Hill,Apartment,Private room,1,1.0,2,130.0,98,"W Cedar St., Boston, MA 02108, United States",10
+6038520,South End,Apartment,Entire home/apt,1,1.0,2,200.0,98,"Washington Street, Boston, MA 02118, United States",10
+5076880,Charlestown,Apartment,Entire home/apt,2,1.0,3,225.0,98,"Main Street, Boston, MA 02129, United States",10
+4879702,South End,Apartment,Entire home/apt,1,1.0,3,99.0,98,"Northampton Street, Boston, MA 02118, United States",10
+989163,South End,Apartment,Entire home/apt,1,1.0,2,170.0,98,"Tremont Street, Boston, MA 02118, United States",10
+2384107,South Boston,Apartment,Entire home/apt,1,1.0,3,350.0,98,"A Street, Boston, MA 02210, United States",10
+7321217,Charlestown,Apartment,Entire home/apt,1,1.0,2,200.0,98,"Bunker Hill Street, Boston, MA 02129, United States",10
+1248870,West End,Apartment,Entire home/apt,1,1.0,4,219.0,98,"Canal Street, Boston, MA 02114, United States",10
+6677640,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,200.0,98,"Hancock Street, Boston, MA 02114, United States",10
+395975,South Boston,Apartment,Private room,1,1.0,3,88.0,98,"E 2nd St, Boston, MA 02127, United States",10
+11147761,Allston-Brighton,Apartment,Entire home/apt,2,2.0,6,194.0,98,"Strathmore Road, Boston, MA 02135, United States",9
+11454147,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,209.0,98,"Miner Street, Boston, MA 02215, United States",10
+250983,Jamaica Plain,Apartment,Entire home/apt,2,1.0,5,350.0,98,"Mark St, Boston, MA 02130, United States",9
+4532603,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,229.0,98,"A Garden St, Boston, MA 02114, United States",10
+5581575,Back Bay,Apartment,Entire home/apt,2,1.0,6,315.0,98,"Follen Street, Boston, MA 02116, United States",10
+12489916,Back Bay,Apartment,Entire home/apt,2,2.0,4,281.0,98,"Beacon Street, Boston, MA 02116, United States",10
+3519768,Allston-Brighton,Apartment,Entire home/apt,1,1.0,3,189.0,98,"Royal Street, Boston, MA 02134, United States",9
+12930651,Jamaica Plain,Apartment,Private room,1,1.0,2,80.0,98,"Rosemary Street, Boston, MA 02130, United States",10
+2950175,Jamaica Plain,Apartment,Private room,1,1.0,1,50.0,98,"Forest Hills Street, Boston, MA 02130, United States",9
+7743569,Jamaica Plain,Apartment,Private room,1,1.0,2,69.0,98,"Centre Street, Boston, MA 02130, United States",10
+8846202,South End,Apartment,Entire home/apt,1,1.0,2,185.0,98,"Chandler Street, Boston, MA 02116, United States",10
+4948724,Back Bay,Apartment,Entire home/apt,1,1.0,4,249.0,98,"Commonwealth Avenue, Boston, MA 02215, United States",10
+11695285,East Boston,Apartment,Entire home/apt,2,1.0,4,215.0,98,"Marion Street, Boston, MA 02128, United States",9
+13478348,North End,Apartment,Entire home/apt,2,1.0,3,182.0,98,"Cooper Street, Boston, MA 02113, United States",9
+9448243,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,289.0,98,"Boylston Street, Boston, MA 02215, United States",9
+11514237,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,150.0,98,"Cerina Road, Boston, MA 02130, United States",10
+13101775,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,140.0,98,"Pinckney Street, Boston, MA 02114, United States",10
+8310894,Jamaica Plain,Apartment,Entire home/apt,1,1.0,3,99.0,98,"Jamaicaway, Boston, MA 02130, United States",9
+2061478,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,110.0,98,"Sutherland Road, Boston, MA 02135, United States",10
+3198169,Mission Hill,Apartment,Private room,1,1.0,2,110.0,98,"Tremont Street, Boston, MA 02120, United States",10
+3802530,East Boston,Apartment,Entire home/apt,1,1.0,4,150.0,98,"Saratoga Street, Boston, MA 02128, United States",10
+1365335,South End,Apartment,Entire home/apt,1,1.0,3,160.0,98,"Shawmut Avenue, Boston, MA 02119, United States",10
+8406972,South End,Apartment,Entire home/apt,1,1.0,5,250.0,98,"Boston, MA 02118, United States",10
+8579799,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,175.0,98,"Commonwealth Avenue, Boston, MA 02134, United States",10
+3988018,Jamaica Plain,Apartment,Private room,1,1.0,2,75.0,97,"Washington Street, Boston, MA 02131, United States",9
+4025194,Jamaica Plain,Apartment,Private room,1,1.0,2,75.0,97,"Washington Street, Boston, MA 02131, United States",9
+4304969,North End,Apartment,Entire home/apt,1,1.0,4,159.0,97,"Prince Street, Boston, MA 02113, United States",10
+3616081,Jamaica Plain,Apartment,Entire home/apt,1,1.0,3,114.0,97,"REAR Chestnut Avenue, Boston, MA 02130, United States",10
+36885,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,155.0,97,"Boylston St, Boston, MA 02215, United States",10
+210097,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,100.0,97,"Jamaica Plain, Boston, MA 02130, United States",10
+3945704,Dorchester,Apartment,Private room,1,1.0,2,80.0,97,"Washburn Street, Boston, MA 02125, United States",9
+6552654,Back Bay,Apartment,Entire home/apt,1,1.0,2,180.0,97,"Cumberland Street, Boston, MA 02115, United States",10
+1252289,South End,Apartment,Private room,1,1.0,2,99.0,97,"Worcester Square, Boston, MA 02118, United States",10
+3601030,South End,Apartment,Entire home/apt,1,1.0,3,250.0,97,"Tremont Street, Boston, MA 02118, United States",10
+6316145,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,180.0,97,"Saint Stephen Street, Boston, MA 02115, United States",10
+749247,Jamaica Plain,Apartment,Private room,1,1.0,2,85.0,97,"Cornwall St, Boston, MA 02130, United States",10
+4549374,South End,Apartment,Entire home/apt,1,1.0,3,199.0,97,"East Springfield Street, Boston, MA 02118, United States",9
+1732804,Dorchester,Apartment,Private room,1,1.0,2,80.0,97,"Rosemont Street, Boston, MA 02122, United States",9
+5976821,South End,Apartment,Shared room,1,1.0,2,125.0,97,"Tremont Street, Boston, MA 02116, United States",10
+9694218,Roxbury,Apartment,Entire home/apt,1,1.0,4,100.0,97,"Fort Avenue, Boston, MA 02119, United States",9
+12269155,North End,Apartment,Entire home/apt,1,1.0,2,200.0,97,"Cooper Street, Boston, MA 02113, United States",10
+4947526,South Boston,Apartment,Private room,1,1.0,2,125.0,97,"Bolton Street, Boston, MA 02127, United States",10
+5582163,South End,Apartment,Entire home/apt,1,1.0,2,170.0,97,"Warren Avenue, Boston, MA 02116, United States",10
+6317446,South Boston,Apartment,Entire home/apt,2,1.0,4,245.0,97,"East Broadway, Boston, MA 02127, United States",9
+6317722,South Boston,Apartment,Entire home/apt,2,1.0,4,185.0,97,"East Broadway, Boston, MA 02127, United States",9
+39116,Fenway/Kenmore,Apartment,Private room,1,1.0,2,99.0,97,"Park Dr, Boston, MA 02215, United States",10
+6730758,Jamaica Plain,Apartment,Private room,1,1.0,4,100.0,97,"Minton Street, Boston, MA 02130, United States",9
+1881180,Dorchester,Apartment,Private room,1,1.0,2,90.0,97,"Lafield Street, Boston, MA 02122, United States",8
+6268805,Charlestown,Apartment,Entire home/apt,1,1.0,4,260.0,97,"Concord Street, Boston, MA 02129, United States",9
+1551205,Back Bay,Apartment,Entire home/apt,2,2.0,4,464.0,97,"Newbury Street, Boston, MA 02116, United States",10
+5990808,East Boston,Apartment,Entire home/apt,2,1.0,4,189.0,97,"Webster Street, Boston, MA 02128, United States",9
+3740274,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,229.0,97,"Fenway, Boston, MA 02115, United States",10
+13110347,Jamaica Plain,Apartment,Private room,1,1.0,2,61.0,97,"Boylston Street, Jamaica Plain , MA 02130, United States",10
+2848239,Chinatown,Apartment,Entire home/apt,1,1.0,3,250.0,97,"Harvard Street, Boston, MA 02111, United States",9
+6765855,Roxbury,Apartment,Private room,1,2.0,2,80.0,97,"Cedar Street, Boston, MA 02119, United States",9
+2754975,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,250.0,97,"Beacon Street, Boston, MA 02108, United States",10
+11223924,North End,Apartment,Entire home/apt,1,1.0,4,195.0,97,"Fleet Street, Boston, MA 02109, United States",10
+10083878,South End,Apartment,Entire home/apt,1,1.0,4,170.0,97,"Washington Street, Boston, MA 02118, United States",10
+3591388,Back Bay,Apartment,Entire home/apt,1,1.0,2,275.0,97,"Marlborough Street, Boston, MA 02115, United States",10
+12308161,South End,Apartment,Private room,1,1.0,2,119.0,97,"Massachusetts Avenue, Boston, MA 02118, United States",10
+5125723,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,100.0,97,"Norway Street, Boston, MA 02115, United States",10
+8753559,Allston-Brighton,Apartment,Private room,1,1.0,2,50.0,97,"Tremont St, Brighton, MA 02135, United States",9
+1374466,Roxbury,Apartment,Private room,1,1.0,1,85.0,97,"Juniper Street, Boston, MA 02119, United States",8
+6574771,Dorchester,Apartment,Private room,1,1.0,1,45.0,97,"Harvest Street, Boston, MA 02125, United States",9
+10106081,North End,Apartment,Entire home/apt,1,1.0,2,180.0,97,"Salem Street, Boston, MA 02113, United States",10
+11492423,South Boston,Apartment,Private room,1,1.0,2,100.0,97,"West 7th Street, Boston, MA 02127, United States",9
+1949996,Jamaica Plain,Apartment,Entire home/apt,1,1.0,4,110.0,97,"Centre Street, Boston, MA 02130, United States",10
+7575052,South End,Apartment,Entire home/apt,1,1.0,4,200.0,97,"Tremont Street, Boston, MA 02118, United States",10
+9577988,Jamaica Plain,Apartment,Entire home/apt,2,1.0,6,99.0,97,"Zamora Court, Boston, MA 02130, United States",10
+6072693,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,199.0,97,"Charlesgate East, Boston, MA 02215, United States",10
+4489588,Downtown Crossing,Apartment,Entire home/apt,1,1.0,2,249.0,97,"Arch Street, Boston, MA 02110, United States",10
+7379913,Mission Hill,Apartment,Private room,1,1.0,2,130.0,97,"Delle Avenue, Roxbury Crossing, MA 02120, United States",9
+13884549,East Boston,Apartment,Private room,1,1.0,2,65.0,97,"Maverick Street, Boston, MA 02128, United States",10
+4034018,North End,Apartment,Private room,1,2.0,2,290.0,97,"Cooper Street, Boston, MA 02113, United States",10
+9857049,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,189.0,97,"Cedar Lane Way, Boston, MA 02108, United States",10
+6268082,Back Bay,Apartment,Entire home/apt,1,1.0,3,180.0,97,"Melrose Street, Boston, MA 02116, United States",10
+3342094,Jamaica Plain,Apartment,Entire home/apt,2,1.0,6,150.0,97,"Beaufort Road, Jamaica Plain (Boston), MA 02130, United States",10
+732999,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,205.0,97,"South St, Boston, MA 02130, United States",9
+4916260,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,310.0,97,"Brookline Avenue, Boston, MA 02215, United States",10
+13547301,Roslindale,Apartment,Entire home/apt,2,1.0,5,150.0,97,"Fairview Street, Boston, MA 02131, United States",9
+8118718,East Boston,Apartment,Private room,1,1.0,2,85.0,97,"Cottage Street, Boston, MA 02128, United States",9
+1264217,Back Bay,Apartment,Entire home/apt,1,1.0,3,165.0,97,"Blackwood Street, Boston, MA 02115, United States",10
+13927765,Dorchester,Apartment,Entire home/apt,2,1.0,4,144.0,97,"Brent Street, Boston, MA 02124, United States",9
+12382239,West End,Apartment,Entire home/apt,2,1.0,4,250.0,97,"Archstone Avenir, 101 Canal Street, Boston, MA 02114, United States",10
+13744821,North End,Apartment,Entire home/apt,2,2.0,5,400.0,97,"Salem Street, Boston, MA 02113, United States",10
+8614167,Beacon Hill,Apartment,Entire home/apt,2,1.0,3,275.0,97,"Cedar Lane Way, Boston, MA 02108, United States",10
+1899770,South End,Apartment,Private room,1,1.0,2,125.0,97,"Worcester Street, Boston, MA 02118, United States",10
+8454985,Charlestown,Apartment,Entire home/apt,2,1.0,3,225.0,97,"13th St, Charlestown, MA 02129, United States",9
+12409042,Allston-Brighton,Apartment,Private room,1,1.0,2,89.0,97,"West Sorrento Street, Boston, MA 02134, United States",8
+12432535,Charlestown,Apartment,Entire home/apt,1,1.0,4,200.0,97,"Bunker Hill Street, Boston, MA 02129, United States",10
+12738641,South Boston,Apartment,Private room,1,1.0,1,57.0,97,"Gold Street, Boston, MA 02127, United States",10
+8814532,West End,Apartment,Entire home/apt,2,2.0,5,153.0,97,"Staniford Street, Boston, MA 02114, United States",10
+14107067,South Boston,Apartment,Entire home/apt,2,2.0,5,250.0,97,"N Street, Boston, MA 02127, United States",9
+9078998,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,150.0,97,"Charles Street, Boston, MA 02114, United States",10
+9273395,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,210.0,97,"Charles Street, Boston, MA 02114, United States",10
+721979,Chinatown,Apartment,Entire home/apt,2,2.0,4,349.0,97,"Washington Street, Boston, MA 02111, United States",10
+7036112,North End,Apartment,Entire home/apt,1,1.0,3,180.0,97,"Hanover Street, Boston, MA 02113, United States",10
+2621242,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,110.0,97,"Chestnut Avenue, Boston, MA 02130, United States",10
+13451383,Allston-Brighton,Apartment,Private room,1,1.0,2,80.0,97,"Gardner Street, Boston, MA 02134, United States",9
+14057189,Allston-Brighton,Apartment,Private room,1,1.0,2,100.0,97,"Lake Shore Road, Boston, MA 02135, United States",10
+5521378,Jamaica Plain,Apartment,Private room,1,1.0,2,87.0,97,"Olmstead Street, Boston, MA 02130, United States",9
+13415232,Dorchester,Apartment,Private room,1,1.0,2,75.0,97,"Savin Hill Avenue, Boston, MA 02125, United States",10
+6908672,Beacon Hill,Apartment,Entire home/apt,2,1.0,4,199.0,97,"Charles Street, Boston, MA 02114, United States",10
+13156872,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,100.0,97,"Commonwealth Avenue, Boston, MA 02135, United States",10
+13907143,Hyde Park,Apartment,Private room,1,1.0,2,47.0,97,"Riley Road, Boston, MA 02136, United States",9
+7244031,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,125.0,97,"Joy Street, Boston, MA 02114, United States",10
+2376518,North End,Apartment,Entire home/apt,1,1.0,4,235.0,97,"Stillman Street, Boston, MA 02113, United States",10
+1136972,Jamaica Plain,Apartment,Private room,1,1.0,2,60.0,96,"Washington Street, Boston, MA 02131, United States",9
+1115394,Jamaica Plain,Apartment,Private room,1,1.0,2,91.0,96,"Forest Hills Street, Boston, MA 02130, United States",9
+4568116,Roxbury,Apartment,Entire home/apt,1,1.0,2,135.0,96,"Alvah Kittredge Park, Boston, MA 02119, United States",9
+6870366,Fenway/Kenmore,Apartment,Private room,1,1.0,1,84.0,96,"Brookline Avenue, Boston, MA 02215, United States",10
+257588,South Boston,Apartment,Entire home/apt,2,1.0,6,200.0,96,"E 8th St, Boston, MA 02127, United States",10
+6089865,North End,Apartment,Entire home/apt,1,1.0,2,125.0,96,"Hull Street Court, Boston, MA 02113, United States",10
+3946215,Dorchester,Apartment,Private room,1,1.0,1,40.0,96,"Washburn Street, Boston, MA 02125, United States",9
+4015972,Jamaica Plain,Apartment,Private room,1,1.0,2,60.0,96,"Forbes Street, Boston, MA 02130, United States",9
+3601424,Allston-Brighton,Apartment,Private room,1,1.0,2,75.0,96,"Bennett Street, Boston, MA 02135, United States",10
+750438,Jamaica Plain,Apartment,Private room,1,1.0,2,85.0,96,"Child St, Boston, MA 02130, United States",10
+6323935,Back Bay,Apartment,Entire home/apt,1,1.0,2,185.0,96,"Cumberland Street, Boston, MA 02115, United States",10
+4340110,Allston-Brighton,Apartment,Private room,1,1.0,2,90.0,96,"Commonwealth Avenue, Boston, MA 02215, United States",10
+8556025,North End,Apartment,Entire home/apt,2,1.0,4,220.0,96,"Prince Street, Boston, MA 02113, United States",10
+4149974,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,115.0,96,"Centre Street, Boston, MA 02130, United States",10
+5593939,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,100.0,96,"Harvard Avenue, Boston, MA 02134, United States",10
+5182313,Jamaica Plain,Apartment,Private room,1,1.0,2,110.0,96,"Atherton Street, Boston, MA 02119, United States",9
+3520353,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,238.0,96,"Temple St, Boston, MA 02114, United States",10
+9259184,North End,Apartment,Entire home/apt,2,2.0,4,255.0,96,"Cooper Street, Boston, MA 02113, United States",10
+8402408,South End,Apartment,Private room,1,1.0,2,95.0,96,"Massachusetts Avenue, Boston, MA 02118, United States",10
+11593592,East Boston,Apartment,Private room,1,1.0,3,98.0,96,"Maverick Street, Boston, MA 02128, United States",9
+453660,South End,Apartment,Private room,1,1.0,2,99.0,96,"Upton Street, Boston, MA 02118, United States",10
+2216767,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,179.0,96,"Grove Street, Boston, MA 02114, United States",10
+2754149,Mission Hill,Apartment,Private room,1,1.0,2,65.0,96,"Lawn Street, Boston, MA 02120, United States",9
+1658983,Charlestown,Apartment,Entire home/apt,1,1.0,3,155.0,96,"Cross Street, Boston, MA 02129, United States",10
+5870922,Allston-Brighton,Apartment,Private room,1,1.0,2,91.0,96,"West Sorrento Street, Boston, MA 02134, United States",9
+11588543,South End,Apartment,Entire home/apt,2,1.0,3,265.0,96,"Massachusetts Avenue, Boston, MA 02118, United States",10
+9208166,South End,Apartment,Entire home/apt,2,2.0,6,236.0,96,"Harrison Avenue, Boston, MA 02118, United States",10
+4555637,Roxbury,Apartment,Private room,1,1.0,1,81.0,96,"Alvah Kittredge Park, Boston, MA 02119, United States",9
+12957423,North End,Apartment,Entire home/apt,1,1.0,3,159.0,96,"Prince Street, Boston, MA 02113, United States",10
+2776391,Downtown,Apartment,Entire home/apt,2,2.0,4,235.0,96,"Union Street, Boston, MA 02108, United States",10
+5616179,East Boston,Apartment,Private room,1,2.0,2,140.0,96,"Sumner Street, Boston, MA 02128, United States",9
+182049,East Boston,Apartment,Entire home/apt,2,1.0,4,300.0,96,"Eutaw St, Boston, MA 02128, United States",9
+831744,Allston-Brighton,Apartment,Entire home/apt,1,1.0,3,295.0,96,"Quint Ave, ALLSTON, MA 02134, United States",9
+705919,South End,Apartment,Entire home/apt,1,1.0,3,199.0,96,"Greenwich Park, Boston, MA 02118, United States",10
+6075932,South End,Apartment,Private room,1,1.0,2,185.0,96,"West Canton Street, Boston, MA 02118, United States",10
+7634365,South End,Apartment,Entire home/apt,2,2.0,4,329.0,96,"Harrison Avenue, Boston, MA 02118, United States",9
+6793945,South End,Apartment,Entire home/apt,1,1.0,4,215.0,96,"Washington Street, Boston, MA 02118, United States",9
+8753913,South End,Apartment,Entire home/apt,2,1.0,4,240.0,96,"Massachusetts Avenue, Boston, MA 02118, United States",10
+5511924,South Boston,Apartment,Private room,1,1.0,2,135.0,96,"East 3rd Street, Boston, MA 02127, United States",10
+705900,Back Bay,Apartment,Entire home/apt,1,1.0,4,229.0,96,"Commonwealth Ave, Boston, MA 02115, United States",10
+1966195,Chinatown,Apartment,Entire home/apt,2,2.0,5,389.0,96,"Washington Street, Boston, MA 02111, United States",10
+9292118,West Roxbury,Apartment,Entire home/apt,2,1.0,4,125.0,96,"Temple Street, West Roxbury, MA 02132, United States",10
+3363097,South Boston,Apartment,Entire home/apt,2,2.0,5,400.0,96,"A Street, Boston, MA 02210, United States",9
+1902160,Allston-Brighton,Apartment,Private room,1,1.0,1,72.0,96,"Melvin Avenue, Boston, MA 02135, United States",10
+8514932,East Boston,Apartment,Private room,1,1.0,2,115.0,96,"Marginal Street, Boston, MA 02128, United States",10
+369940,North End,Apartment,Entire home/apt,2,1.0,4,199.0,96,"N Bennet Ct, Boston, MA 02113, United States",10
+11397511,South End,Apartment,Private room,1,1.0,2,180.0,96,"Shawmut Avenue, Boston, MA 02118, United States",10
+6322283,Jamaica Plain,Apartment,Private room,1,1.0,1,69.0,96,"John A Andrew Street, Boston, MA 02130, United States",10
+4032756,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,188.0,96,"Revere Street, Boston, MA 02114, United States",10
+13147585,Fenway/Kenmore,Apartment,Shared room,1,1.0,2,60.0,96,"Queensberry Street, Boston, MA 02215, United States",10
+932853,Jamaica Plain,Apartment,Private room,1,2.0,2,120.0,96,"Chestnut Avenue, Jamaica Plain, MA 02130, United States",10
+369880,North End,Apartment,Entire home/apt,1,1.0,4,140.0,96,"Henchman St, Boston, MA 02113, United States",10
+6923446,Fenway/Kenmore,Apartment,Private room,1,1.0,2,175.0,96,"Brookline Avenue, Boston, MA 02215, United States",10
+5999291,South Boston,Apartment,Entire home/apt,1,1.0,2,150.0,96,"East 7th Street, Boston, MA 02127, United States",10
+12356962,Charlestown,Apartment,Entire home/apt,1,1.0,4,275.0,96,"Rutherford Avenue, Boston, MA 02129, United States",9
+6017574,Back Bay,Apartment,Entire home/apt,2,2.0,4,425.0,96,"Commonwealth Avenue, Boston, MA 02115, United States",10
+9757412,South End,Apartment,Private room,1,1.0,1,89.0,96,"Massachusetts Avenue, Boston, MA 02118, United States",9
+7749568,Back Bay,Apartment,Entire home/apt,1,1.0,4,150.0,96,"Beacon Street, Boston, MA 02215, United States",10
+6276572,South End,Apartment,Entire home/apt,1,1.0,2,189.0,96,"Columbus Avenue, Boston, MA 02118, United States",10
+10034592,Dorchester,Apartment,Private room,1,1.0,2,55.0,96,"South Point Drive, Boston, MA 02125, United States",10
+7054058,Allston-Brighton,Apartment,Entire home/apt,2,1.0,4,150.0,96,"Sutherland Road, Boston, MA 02135, United States",9
+8310653,Allston-Brighton,Apartment,Private room,1,1.0,2,85.0,96,"Gardner Street, Boston, MA 02134, United States",9
+11912139,Jamaica Plain,Apartment,Private room,1,1.0,2,60.0,96,"Forbes Street, Boston, MA 02130, United States",10
+7931882,Back Bay,Apartment,Entire home/apt,2,1.0,4,225.0,96,"Winchester Street, Boston, MA 02116, United States",9
+13768853,Roslindale,Apartment,Private room,1,1.0,4,50.0,96,"South Street, Boston, MA 02131, United States",10
+2723274,Back Bay,Apartment,Entire home/apt,2,1.0,2,250.0,96,"Isabella Street, Boston, MA 02116, United States",10
+13590412,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,100.0,96,"Harvard Avenue, Boston, MA 02134, United States",9
+13993185,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,200.0,96,"Phillips Street, Boston, MA 02114, United States",10
+13028092,Mission Hill,Apartment,Entire home/apt,1,1.0,3,130.0,96,"Sunset Street, Boston, MA 02120, United States",9
+4928894,South Boston,Apartment,Entire home/apt,1,1.0,2,160.0,96,"East Broadway, Boston, MA 02127, United States",10
+13584884,Allston-Brighton,Apartment,Private room,1,1.0,2,58.0,96,"South Waverly Street, Boston, MA 02135, United States",9
+4567815,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,120.0,96,"Jamaica Street, Boston, MA 02130, United States",9
+3931204,West End,Apartment,Entire home/apt,1,1.0,3,220.0,96,"Longfellow Place, Boston, MA 02114, United States",9
+9844242,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,103.0,96,"Irving Street, Boston, MA 02114, United States",10
+10391455,South End,Apartment,Private room,1,1.0,2,75.0,96,"Massachusetts Avenue, Boston, MA 02118, United States",10
+13046976,East Boston,Apartment,Entire home/apt,1,1.0,4,145.0,96,"Meridian Street, Boston, MA 02128, United States",9
+1234740,Back Bay,Apartment,Entire home/apt,2,1.0,4,389.0,96,"Beacon Street, Boston, MA 02116, United States",10
+3673104,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,289.0,96,"Grove Street, Boston, MA 02114, United States",10
+7508063,South End,Apartment,Entire home/apt,2,1.0,6,238.0,96,"East Berkeley Street, Boston, MA 02118, United States",9
+8577620,Back Bay,Apartment,Entire home/apt,1,1.0,2,169.0,96,"Hereford Street, Boston, MA 02115, United States",10
+13330146,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,147.0,96,"Mount Vernon Street, Boston, MA 02108, United States",10
+13751426,Jamaica Plain,Apartment,Private room,1,1.0,2,70.0,96,"Forest Hills Street, Boston, MA 02130, United States",10
+12071820,Jamaica Plain,Apartment,Shared room,1,1.0,2,70.0,96,"McBride Street, Boston, MA 02130, United States",10
+5718921,South End,Apartment,Entire home/apt,2,1.0,4,225.0,96,"West Canton Street, Boston, MA 02116, United States",10
+10138792,South Boston,Apartment,Entire home/apt,2,2.0,4,129.0,96,"Park Lane, Boston, MA 02210, United States",10
+56927,Back Bay,Apartment,Entire home/apt,1,1.0,2,289.0,96,"Garrison Street, Boston, MA 02116, United States",10
+13674964,Back Bay,Apartment,Private room,1,1.0,2,179.0,96,"Newbury Street, Boston, MA 02116, United States",10
+13510994,South Boston,Apartment,Entire home/apt,1,1.0,2,295.0,96,"Seaport Boulevard, Boston, MA 02210, United States",10
+5755910,North End,Apartment,Entire home/apt,2,2.0,4,180.0,96,"Cooper Street, Boston, MA 02113, United States",10
+13830152,Charlestown,Apartment,Private room,1,1.0,2,80.0,96,"Cambridge Street, Boston, MA 02129, United States",9
+5762866,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,130.0,96,"Royal Street, Boston, MA 02134, United States",10
+5959251,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,375.0,96,"Beacon Street, Boston, MA 02108, United States",10
+6575654,South End,Apartment,Private room,1,1.0,2,110.0,96,"Washington Street, Boston, MA 02118, United States",9
+2573685,West End,Apartment,Entire home/apt,1,1.0,4,249.0,96,"Longfellow Place, Boston, MA 02114, United States",10
+7602994,Allston-Brighton,Apartment,Private room,1,1.0,1,28.0,96,"Gardner Street, Boston, MA 02134, United States",10
+11126122,Chinatown,Apartment,Entire home/apt,2,1.0,3,319.0,96,"Washington Street, Boston, MA 02111, United States",10
+130552,Mission Hill,Apartment,Entire home/apt,2,1.0,4,269.0,96,"Tremont St, Boston, MA 02120, United States",9
+4820071,East Boston,Apartment,Private room,1,1.0,3,120.0,95,"Chelsea Street, Boston, MA 02128, United States",9
+217498,Allston-Brighton,Apartment,Private room,1,1.0,2,110.0,95,"Cambridge St, Brighton, MA 02135, United States",9
+6142396,East Boston,Apartment,Shared room,1,1.0,2,56.0,95,"Maverick Street, Boston, MA 02128, United States",9
+60029,Roxbury,Apartment,Private room,1,1.0,1,75.0,95,"Juniper St, Boston, MA 02119, United States",8
+554720,Jamaica Plain,Apartment,Entire home/apt,2,2.0,6,240.0,95,"Pershing Rd, Boston, MA 02130, United States",10
+619142,Charlestown,Apartment,Entire home/apt,1,1.0,2,175.0,95,"Green St, Boston, MA 02129, United States",10
+1179399,Dorchester,Apartment,Private room,1,1.0,3,70.0,95,"Wellesley Park, Boston, MA 02124, United States",9
+3392423,Beacon Hill,Apartment,Private room,1,1.0,2,115.0,95,"Garden St., Boston, MA 02114, United States",10
+8252058,East Boston,Apartment,Private room,1,1.0,2,80.0,95,"lubec, east Boston , MA 02128, United States",9
+5734770,South End,Apartment,Private room,1,1.0,2,150.0,95,"Columbus Avenue, Boston, MA 02116, United States",10
+6741968,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,239.0,95,"Beacon Street, Boston, MA 02108, United States",10
+1178371,Dorchester,Apartment,Private room,1,1.0,1,45.0,95,"Wellesley Park, Boston, MA 02124, United States",9
+2022303,South Boston,Apartment,Entire home/apt,2,2.0,4,250.0,95,"B Street, Boston, MA 02127, United States",10
+69369,Roxbury,Apartment,Private room,1,1.0,2,85.0,95,"Juniper St, Boston, MA 02119, United States",8
+6134145,North End,Apartment,Entire home/apt,2,1.0,4,380.0,95,"Hanover Street, Boston, MA 02109, United States",10
+8065282,East Boston,Apartment,Entire home/apt,2,1.0,4,181.0,95,"Chelsea Street, Boston, MA 02128, United States",9
+5163162,South Boston,Apartment,Entire home/apt,2,1.0,8,200.0,95,"Dorchester Street, Boston, MA 02127, United States",9
+4065578,Back Bay,Apartment,Entire home/apt,1,1.0,3,200.0,95,"Garrison Street, Boston, MA 02116, United States",10
+9145242,East Boston,Apartment,Private room,1,1.0,2,89.0,95,"Brooks St, East Boston, MA 02128, United States",10
+4698367,West Roxbury,Apartment,Entire home/apt,2,1.0,4,100.0,95,"Temple Street, West Roxbury, MA 02132, United States",9
+6410674,Beacon Hill,Apartment,Private room,1,1.0,1,175.0,95,"Anderson Street, Boston, MA 02114, United States",10
+6317304,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,193.0,95,"Beacon Street, Boston, MA 02215, United States",10
+8830015,Chinatown,Apartment,Entire home/apt,2,1.0,6,296.0,95,"Kneeland Street, Boston, MA 02111, United States",10
+1067184,Jamaica Plain,Apartment,Private room,1,1.0,2,95.0,95,"Jamaica Street, Boston, MA 02130, United States",10
+4364925,South End,Apartment,Entire home/apt,2,1.0,7,200.0,95,"Tremont Street, Boston, MA 02118, United States",10
+7277653,Allston-Brighton,Apartment,Private room,1,1.0,2,70.0,95,"Riverdale Street, Boston, MA 02134, United States",10
+2219399,Jamaica Plain,Apartment,Private room,1,1.0,2,115.0,95,"Asticou Road, Boston, MA 02130, United States",9
+9549850,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,75.0,95,"Sheridan Street, Boston, MA 02130, United States",10
+1102623,Charlestown,Apartment,Private room,1,1.0,2,125.0,95,"Winthrop Street, Boston, MA 02129, United States",10
+6695,Roxbury,Apartment,Entire home/apt,1,1.0,4,195.0,95,"Centre Place, Boston, MA 02119, United States",8
+5967421,Allston-Brighton,Apartment,Private room,1,1.0,2,89.0,95,"West Sorrento Street, Boston, MA 02134, United States",9
+8441187,Downtown Crossing,Apartment,Shared room,1,1.0,2,95.0,95,"Winter Street, Boston, MA 02108, United States",10
+8166076,East Boston,Apartment,Entire home/apt,2,1.0,9,250.0,95,"Brooks Street, East Boston, MA 02128, United States",9
+9207914,South End,Apartment,Entire home/apt,1,1.0,4,130.0,95,"Harrison Avenue, Boston, MA 02118, United States",9
+879929,Roslindale,Apartment,Private room,1,1.0,2,90.0,95,"Ashfield Street, Roslindale, MA 02131, United States",9
+3659917,Mission Hill,Apartment,Private room,1,1.0,1,75.0,95,"South Huntington Avenue, Boston, MA 02130, United States",9
+973840,Jamaica Plain,Apartment,Private room,1,1.0,2,82.0,95,"Glen Road, Boston, MA 02130, United States",9
+2862120,Beacon Hill,Apartment,Shared room,1,1.0,1,100.0,95,"Anderson Street, Boston, MA 02114, United States",10
+3677662,Allston-Brighton,Apartment,Private room,1,1.0,2,85.0,95,"Park Vale Avenue, Boston, MA 02134, United States",9
+10231714,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,4,140.0,95,"Park Drive, Boston, MA 02215, United States",10
+12309083,South Boston,Apartment,Entire home/apt,2,1.0,6,250.0,95,"Seaport Boulevard, Boston, MA 02210, United States",10
+4364989,South End,Apartment,Entire home/apt,1,1.0,4,175.0,95,"Tremont Street, Boston, MA 02118, United States",10
+5862806,Dorchester,Apartment,Private room,1,1.0,2,60.0,95,"Harvest Street, Boston, MA 02125, United States",9
+3591359,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,190.0,95,"Gay Head Street, Boston, MA 02130, United States",9
+12987348,Financial District,Apartment,Entire home/apt,2,2.0,6,375.0,95,"Milk Street, Boston, MA 02109, United States",10
+6426364,South End,Apartment,Entire home/apt,1,1.0,4,200.0,95,"Tremont Street, Boston, MA 02118, United States",10
+801680,Roxbury,Apartment,Entire home/apt,1,1.0,4,195.0,95,"Centre Pl, Boston, MA 02119, United States",8
+7931331,Allston-Brighton,Apartment,Entire home/apt,2,2.0,6,269.0,95,"N. Harvard Street, Boston, MA 02134, United States",9
+10730,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,150.0,95,"Beacon St, Boston, MA 02108, United States",10
+6990023,Mission Hill,Apartment,Private room,1,1.0,2,88.0,95,"Heath Street, Boston, MA 02130, United States",9
+2114274,Allston-Brighton,Apartment,Private room,1,1.0,2,93.0,95,"Commonwealth Avenue, Boston, MA 02134, United States",10
+4598026,Allston-Brighton,Apartment,Shared room,1,1.0,1,47.0,95,"Radcliffe Road, Boston, MA 02134, United States",10
+11760822,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,140.0,95,"Commonwealth Avenue, Boston, MA 02135, United States",9
+732932,Jamaica Plain,Apartment,Private room,1,1.0,2,80.0,95,"South St, Boston, MA 02130, United States",9
+9680953,West End,Apartment,Entire home/apt,1,1.0,5,135.0,95,"Beverly Street, Boston, MA 02114, United States",9
+9541295,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,289.0,95,"Boylston Street, Boston, MA 02215, United States",10
+11634778,Fenway/Kenmore,Apartment,Entire home/apt,2,1.0,4,200.0,95,"Massachusetts Avenue, Boston, MA 02115, United States",10
+2660908,Charlestown,Apartment,Entire home/apt,1,1.0,4,99.0,95,"Belmont Street, Boston, MA 02129, United States",9
+13037372,Mission Hill,Apartment,Shared room,1,1.0,2,52.0,95,"Sunset Street, Boston, MA 02120, United States",10
+6596242,Downtown,Apartment,Entire home/apt,1,1.0,3,185.0,95,"Chauncy Street, Boston, MA 02111, United States",9
+3371091,Jamaica Plain,Apartment,Private room,1,1.0,4,125.0,95,"Beaufort Road, Boston, MA 02130, United States",10
+4069422,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,4,500.0,95,"Jersey Street, Boston, MA 02215, United States",10
+8696200,West End,Apartment,Shared room,1,1.0,2,103.0,95,"Whittier Place, Boston, MA 02114, United States",10
+13056513,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,135.0,95,"Glencoe Street, Boston, MA 02135, United States",9
+6213822,Back Bay,Apartment,Entire home/apt,2,2.0,5,183.0,95,"Garrison Street, Boston, MA 02116, United States",10
+971393,North End,Apartment,Entire home/apt,1,1.0,2,175.0,95,"Charter Street, Boston, MA 02113, United States",9
+6971836,North End,Apartment,Entire home/apt,1,1.0,3,250.0,95,"Commercial Street, Boston, MA 02109, United States",10
+8211468,South End,Apartment,Entire home/apt,1,1.0,2,139.0,95,"Dartmouth Street, Boston, MA 02116, United States",10
+11701611,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,210.0,95,"Lime Street, Boston, MA 02108, United States",10
+1868124,Chinatown,Apartment,Entire home/apt,1,1.0,3,293.0,95,"Washington Street, Boston, MA 02111, United States",10
+13992811,Back Bay,Apartment,Private room,1,1.0,2,97.0,95,"Marlborough Street, Boston, MA 02116, United States",10
+5058148,South End,Apartment,Entire home/apt,1,1.0,2,160.0,95,"Worcester Square, Boston, MA 02118, United States",10
+1551467,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,150.0,95,"Cornwall Street, Boston, MA 02130, United States",9
+3903273,South End,Apartment,Entire home/apt,1,1.0,2,225.0,95,"Upton Street, Boston, MA 02118, United States",10
+11710680,South End,Apartment,Entire home/apt,2,1.0,4,229.0,95,"Waltham Street, Boston, MA 02118, United States",10
+5532549,South End,Apartment,Entire home/apt,2,1.0,6,250.0,95,"Appleton Street, Boston, MA 02116, United States",10
+25418,West End,Apartment,Entire home/apt,1,1.0,2,249.0,95,"Emerson Place, Boston, MA 02114, United States",8
+2821825,Theater District,Apartment,Entire home/apt,2,2.0,4,329.0,95,"Washington St, Boston, MA 02111, United States",10
+9677207,Back Bay,Apartment,Entire home/apt,1,1.0,2,150.0,95,"Clarendon Street, Boston, MA 02116, United States",10
+7840131,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,160.0,95,"Bay State Road, Boston, MA 02215, United States",10
+10164759,Back Bay,Apartment,Entire home/apt,1,1.0,4,179.0,95,"Beacon Street, Boston, MA 02116, United States",10
+14374965,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,200.0,95,"Garden Street, Boston, MA 02114, United States",10
+14572515,Allston-Brighton,Apartment,Private room,1,1.0,1,50.0,95,"Commonwealth Avenue, Boston, MA 02134, United States",10
+13624929,Allston-Brighton,Apartment,Private room,1,1.0,3,227.0,95,"Portina Road, Boston, MA 02135, United States",9
+12540640,Allston-Brighton,Apartment,Shared room,1,1.0,2,58.0,95,"Brighton Avenue, Boston, MA 02134, United States",8
+13171246,South End,Apartment,Entire home/apt,2,1.0,4,200.0,95,"Massachusetts Avenue, Boston, MA 02118, United States",10
+13671334,South Boston,Apartment,Entire home/apt,1,1.0,2,150.0,95,"Bell Court, Boston, MA 02127, United States",9
+4593974,Roxbury,Apartment,Private room,1,1.0,1,39.0,95,"Maywood Street, Boston, MA 02119, United States",8
+13669224,Theater District,Apartment,Entire home/apt,1,1.0,4,200.0,95,"Tremont Street, Boston, MA 02111, United States",10
+5433246,South End,Apartment,Private room,1,1.0,2,100.0,95,"Shawmut Avenue, Boston, MA 02118, United States",10
+12372052,Charlestown,Apartment,Entire home/apt,2,1.0,4,150.0,95,"Cambridge Street, Boston, MA 02129, United States",9
+322593,South End,Apartment,Entire home/apt,1,1.0,2,183.0,94,"W Brookline St, Boston, MA 02118, United States",10
+93505,Charlestown,Apartment,Entire home/apt,2,1.0,4,199.0,94,"Green St, Boston, MA 02129, United States",10
+508017,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,199.0,94,"Mt Vernon St, Boston, MA 02108, United States",10
+1071235,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,135.0,94,"Spring Park Avenue, Jamaica Plain, MA 02130, United States",10
+4553903,North End,Apartment,Entire home/apt,1,1.0,3,125.0,94,"North Washington Street, Boston, MA 02114, United States",10
+1327725,Allston-Brighton,Apartment,Entire home/apt,2,1.0,4,147.0,94,"Commonwealth Court, Boston, MA 02135, United States",9
+3969526,South End,Apartment,Entire home/apt,2,1.0,4,255.0,94,"Worcester Square, Boston, MA 02118, United States",9
+6181758,Downtown Crossing,Apartment,Entire home/apt,2,1.0,4,310.0,94,"Washington Street, Boston, MA 02108, United States",10
+2515870,Dorchester,Apartment,Entire home/apt,1,1.0,2,99.0,94,"South Point Drive, Boston, MA 02125, United States",9
+1758953,North End,Apartment,Entire home/apt,1,1.0,2,200.0,94,"Henchman Street, Boston, MA 02113, United States",10
+7988755,South Boston,Apartment,Private room,1,1.0,3,109.0,94,"Preble Street, Boston, MA 02127, United States",9
+7914359,Downtown Crossing,Apartment,Entire home/apt,2,1.0,6,365.0,94,"Washington Street, Boston, MA 02108, United States",10
+8988506,South End,Apartment,Entire home/apt,2,2.0,6,234.0,94,"Harrison Avenue, Boston, MA 02118, United States",9
+2365632,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,220.0,94,"Holbrook Street, Boston, MA 02130, United States",10
+7540480,South End,Apartment,Entire home/apt,1,1.0,4,175.0,94,"Dwight Street, Boston, MA 02118, United States",10
+4177233,Dorchester,Apartment,Private room,1,1.0,2,74.0,94,"Dorchester Avenue, Boston, MA 02125, United States",9
+5174821,Charlestown,Apartment,Private room,1,1.0,2,150.0,94,"Auburn Street, Boston, MA 02129, United States",9
+4975581,Jamaica Plain,Apartment,Entire home/apt,2,1.0,6,168.0,94,"Moraine Street, Boston, MA 02130, United States",9
+11255643,Allston-Brighton,Apartment,Private room,1,1.0,3,70.0,94,"Commonwealth Avenue, Boston, MA 02215, United States",10
+4075898,Downtown Crossing,Apartment,Entire home/apt,1,1.0,2,289.0,94,"Winter Street, Boston, MA 02108, United States",9
+1113272,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,210.0,94,"Gartland Street, Boston, MA 02130, United States",9
+3075044,Roslindale,Apartment,Private room,1,1.0,2,65.0,94,"Pinehurst Street, Boston, MA 02131, United States",9
+9731479,South End,Apartment,Entire home/apt,2,1.0,4,195.0,94,"Dwight Street, Boston, MA 02118, United States",10
+849408,Roslindale,Apartment,Entire home/apt,2,1.0,5,229.0,94,"Centre Street, Boston, MA 02131, United States",9
+3870046,Back Bay,Apartment,Entire home/apt,2,1.0,4,300.0,94,"Commonwealth Avenue, Boston, MA 02116, United States",10
+4614037,East Boston,Apartment,Entire home/apt,2,1.0,6,250.0,94,"Lexington Street, Boston, MA 02128, United States",9
+5166870,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,180.0,94,"Forest Hills Street, Boston, MA 02130, United States",9
+2701124,Back Bay,Apartment,Entire home/apt,1,1.0,4,280.0,94,"Massachusetts Avenue, Boston, MA 02115, United States",10
+13393418,East Boston,Apartment,Entire home/apt,1,1.0,4,135.0,94,"Saratoga Street, Boston, MA 02128, United States",9
+8439372,Fenway/Kenmore,Apartment,Entire home/apt,2,1.0,5,295.0,94,"Boston, MA 02215, United States",10
+5380160,South Boston,Apartment,Entire home/apt,1,1.0,2,320.0,94,"West 3rd Street, Boston, MA 02127, United States",9
+7836038,South Boston,Apartment,Private room,1,1.0,2,100.0,94,"Middle Street, Boston, MA 02127, United States",9
+3434614,North End,Apartment,Entire home/apt,1,1.0,3,160.0,94,"Prince Street, Boston, MA 02113, United States",10
+7723492,Jamaica Plain,Apartment,Private room,1,1.0,2,75.0,94,"Centre Street, Boston, MA 02130, United States",10
+4430821,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,160.0,94,"Rosemary Street, Boston, MA 02130, United States",9
+21891,Chinatown,Apartment,Entire home/apt,2,1.0,4,349.0,94,"Washington Street, Boston, MA 02111, United States",10
+2183117,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,90.0,94,"Radcliffe Road, Boston, MA 02134, United States",9
+13450030,Allston-Brighton,Apartment,Private room,1,2.0,2,80.0,94,"Hooker Street, Boston, MA 02134, United States",9
+3309941,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,279.0,94,"Brookline Avenue, Boston, MA 02215, United States",10
+6728273,Allston-Brighton,Apartment,Entire home/apt,2,1.0,4,145.0,94,"Haskell Street, Boston, MA 02134, United States",9
+7035556,East Boston,Apartment,Entire home/apt,1,1.0,2,150.0,94,"Sumner Street, Boston, MA 02128, United States",9
+13110084,Jamaica Plain,Apartment,Entire home/apt,2,1.0,6,220.0,94,"Kenton Road, Boston, MA 02130, United States",9
+2481019,West End,Apartment,Entire home/apt,1,1.0,4,229.0,94,"Canal Street, Boston, MA 02114, United States",10
+10299047,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,175.0,94,"Merriam Street, Boston, MA 02130, United States",9
+8518091,Dorchester,Apartment,Private room,1,1.0,2,65.0,94,"Houghton Street, Boston, MA 02122, United States",9
+8782592,Beacon Hill,Apartment,Entire home/apt,2,2.0,4,300.0,94,"West Cedar Street, Boston, MA 02108, United States",10
+11240774,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,95.0,94,"Miner Street, Boston, MA 02215, United States",10
+12630619,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,140.0,94,"Bay State Road, Boston, MA 02215, United States",10
+7509273,Allston-Brighton,Apartment,Private room,1,1.0,1,69.0,94,"Litchfield Street, Boston, MA 02135, United States",9
+12463555,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,145.0,94,"Child Street, Boston, MA 02130, United States",10
+7456890,South End,Apartment,Entire home/apt,1,1.0,2,229.0,94,"Clarendon Street, Boston, MA 02116, United States",10
+13138055,Beacon Hill,Apartment,Private room,1,1.0,2,75.0,94,"Myrtle Street, Boston, MA 02114, United States",10
+3006311,North End,Apartment,Private room,1,1.0,2,145.0,94,"Fleet Street, Boston, MA 02113, United States",10
+12081834,Jamaica Plain,Apartment,Entire home/apt,1,1.0,4,175.0,94,"Beecher Street, Boston, MA 02130, United States",10
+14204600,North End,Apartment,Entire home/apt,2,1.0,6,320.0,94,"Henchman Street, Boston, MA 02113, United States",10
+5717528,Jamaica Plain,Apartment,Private room,1,1.0,1,110.0,94,"Chestnut Avenue, Boston, MA 02130, United States",9
+2884903,Jamaica Plain,Apartment,Private room,1,1.0,2,70.0,94,"Hall Street, Boston, MA 02130, United States",9
+228883,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,349.0,94,"Boylston Street, Boston, MA 02215, United States",10
+6134867,Downtown Crossing,Apartment,Entire home/apt,2,1.0,4,325.0,93,"Washington Street, Boston, MA 02108, United States",9
+6924700,Downtown Crossing,Apartment,Entire home/apt,1,1.0,4,265.0,93,"Arch Street, Boston, MA 02110, United States",10
+8351880,Back Bay,Apartment,Private room,1,1.0,2,151.0,93,"marlborough st, Boston, MA 02116, United States",10
+4609785,South End,Apartment,Private room,1,1.0,2,75.0,93,"Massachusetts Avenue, Boston, MA 02118, United States",9
+4287348,South Boston,Apartment,Private room,1,1.0,1,105.0,93,"Gates Street, Boston, MA 02127, United States",9
+8987722,South End,Apartment,Entire home/apt,1,1.0,4,154.0,93,"Harrison Avenue, Boston, MA 02118, United States",9
+7482338,South Boston,Apartment,Private room,1,1.0,2,83.0,93,"Princeton Street, Boston, MA 02128, United States",9
+4432035,Back Bay,Apartment,Entire home/apt,1,1.0,3,248.0,93,"Marlborough Street, Boston, MA 02115, United States",10
+4106372,Allston-Brighton,Apartment,Entire home/apt,2,1.0,7,260.0,93,"Gardner Street, Boston, MA 02134, United States",9
+3344639,Dorchester,Apartment,Private room,1,1.0,2,50.0,93,"Harvest Street, Boston, MA 02125, United States",9
+2811937,Dorchester,Apartment,Private room,1,1.0,2,65.0,93,"Bailey Street, Boston, MA 02124, United States",8
+3664031,North End,Apartment,Entire home/apt,2,1.0,4,180.0,93,"Fulton Street, Boston, MA 02109, United States",10
+2794782,Dorchester,Apartment,Private room,1,1.0,2,65.0,93,"Bailey Street, Boston, MA 02124, United States",8
+973695,Government Center,Apartment,Entire home/apt,1,1.0,4,250.0,93,"Staniford Street, Boston, MA 02114, United States",10
+585148,South End,Apartment,Entire home/apt,1,1.0,2,225.0,93,"Wareham St, Boston, MA 02118, United States",9
+4699828,Hyde Park,Apartment,Entire home/apt,2,2.0,6,160.0,93,"Linwood Street, Hyde Park, Boston,MA, Boston, MA 02136, United States",9
+1827762,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,195.0,93,"Anderson Street, Boston, MA 02114, United States",10
+6983246,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,200.0,93,"Edgerly Road, Boston, MA 02115, United States",10
+2292495,South End,Apartment,Entire home/apt,1,1.0,4,175.0,93,"Tremont Street, Boston, MA 02118, United States",9
+8815257,South End,Apartment,Entire home/apt,2,2.0,6,177.0,93,"Harrison Avenue, Boston, MA 02118, United States",9
+5295491,Allston-Brighton,Apartment,Private room,1,1.0,2,145.0,93,"Eastburn Place, Boston, MA 02135, United States",9
+6444148,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,155.0,93,"Phillips Street, Boston, MA 02114, United States",10
+6629929,Mission Hill,Apartment,Private room,1,1.0,2,105.0,93,"Wait Street, Roxbury Crossing, MA 02120, United States",9
+5791960,Back Bay,Apartment,Entire home/apt,1,1.0,4,194.0,93,"Newbury Street, Boston, MA 02115, United States",10
+594693,Jamaica Plain,Apartment,Private room,1,1.0,2,70.0,93,"South St, Boston, MA 02130, United States",10
+4065322,Jamaica Plain,Apartment,Private room,1,1.0,2,84.0,93,"Sedgwick Street, Boston, MA 02130, United States",9
+1374434,Roxbury,Apartment,Private room,1,1.0,1,75.0,93,"Juniper Street, Boston, MA 02119, United States",8
+13005579,North End,Apartment,Entire home/apt,2,1.0,4,310.0,93,"Hanover Street, Boston, MA 02109, United States",10
+8354938,Jamaica Plain,Apartment,Entire home/apt,2,1.0,5,192.0,93,"School Street, Boston, MA 02119, United States",8
+8337048,Mission Hill,Apartment,Shared room,1,1.0,3,45.0,93,"Parker St, Roxbury Crossing, MA 02120, United States",9
+6543678,South Boston,Apartment,Entire home/apt,2,1.0,3,150.0,93,"H Street, Boston, MA 02127, United States",9
+1183032,South End,Apartment,Entire home/apt,1,1.0,2,150.0,93,"Tremont Street, Boston, MA 02118, United States",10
+8227206,North End,Apartment,Entire home/apt,1,1.0,2,275.0,93,"Cooper Street, Boston, MA 02113, United States",9
+3069104,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,230.0,93,"Temple Street, Boston, MA 02126, United States",10
+4750791,South End,Apartment,Entire home/apt,1,1.0,4,239.0,93,"Saint George Street, Boston, MA 02118, United States",10
+10070404,Back Bay,Apartment,Entire home/apt,2,1.0,6,174.0,93,"Beacon Street, Boston, MA 02116, United States",10
+8131907,South Boston,Apartment,Private room,1,1.0,2,125.0,93,"Park Lane, Boston, MA 02210, United States",10
+13002808,Allston-Brighton,Apartment,Private room,1,1.0,2,72.0,93,"Brainerd Road, Boston, MA 02134, United States",10
+5308475,Fenway/Kenmore,Apartment,Private room,1,1.0,2,175.0,93,"Brookline Avenue, Boston, MA 02215, United States",10
+533152,Dorchester,Apartment,Entire home/apt,2,1.0,4,125.0,93,"Boston St, Boston, MA 02125, United States",9
+9825415,Back Bay,Apartment,Private room,1,1.0,2,90.0,93,"Melrose Street, Boston, MA 02116, United States",10
+11431331,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,289.0,93,"Boylston Street, Boston, MA 02215, United States",9
+67774,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,110.0,93,"Beacon St, Boston, MA 02108, United States",10
+531552,Dorchester,Apartment,Entire home/apt,2,1.0,5,125.0,93,"Lonsdale St, Boston, MA 02122, United States",8
+579605,Dorchester,Apartment,Entire home/apt,2,1.0,4,125.0,93,"Boston St, Boston, MA 02125, United States",9
+2186358,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,285.0,93,"Boylston Street, Boston, MA 02215, United States",10
+9750460,North End,Apartment,Entire home/apt,2,1.0,4,300.0,93,"Parmenter Street, Boston, MA 02113, United States",10
+716643,Back Bay,Apartment,Entire home/apt,2,1.0,4,349.0,93,"Garrison St, Boston, MA 02116, United States",10
+11873789,South End,Apartment,Entire home/apt,2,1.0,3,280.0,93,"Columbus Avenue, Boston, MA 02118, United States",9
+9367059,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,10,229.0,93,"Boylston Street, Boston, MA 02215, United States",10
+13044229,South Boston,Apartment,Entire home/apt,1,1.0,2,150.0,93,"Carpenter Street, Boston, MA 02127, United States",9
+7596262,West End,Apartment,Entire home/apt,1,1.0,3,169.0,93,"Emerson Place, Boston, MA 02114, United States",9
+9677354,Jamaica Plain,Apartment,Private room,1,1.0,1,70.0,93,"Boylston Street, Boston, MA 02130, United States",10
+6927063,Fenway/Kenmore,Apartment,Private room,1,1.0,2,69.0,93,"Westland Avenue, Boston, MA 02115, United States",9
+6685682,Back Bay,Apartment,Entire home/apt,1,1.0,4,259.0,93,"Newbury Street, Boston, MA 02115, United States",10
+13730500,Downtown Crossing,Apartment,Entire home/apt,2,2.0,6,250.0,93,"Arch Street, Boston, MA 02110, United States",10
+4287989,South Boston,Apartment,Entire home/apt,1,1.0,2,175.0,93,"K Street, Boston, MA 02127, United States",9
+543078,Back Bay,Apartment,Entire home/apt,2,1.0,4,379.0,93,"Garrison St, Boston, MA 02116, United States",10
+70481,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,175.0,93,"Beacon St, Boston, MA 02108, United States",10
+10427882,South End,Apartment,Entire home/apt,1,1.0,2,229.0,93,"Columbus Avenue, Boston, MA 02118, United States",9
+10607657,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,175.0,93,"Commonwealth Avenue, Boston, MA 02135, United States",10
+7853971,South Boston,Apartment,Entire home/apt,1,1.0,4,189.0,93,"West Broadway, Boston, MA 02127, United States",9
+14252020,Fenway/Kenmore,Apartment,Private room,1,1.0,1,74.0,93,"Burbank Street, Boston, MA 02115, United States",9
+4603588,Back Bay,Apartment,Entire home/apt,1,1.0,3,175.0,93,"Beacon Street, Boston, MA 02116, United States",10
+14632821,Dorchester,Apartment,Private room,1,1.0,2,72.0,93,"Sudan Street, Boston, MA 02125, United States",9
+11592067,South Boston,Apartment,Entire home/apt,2,2.0,5,240.0,93,"Old Colony Avenue, Boston, MA 02127, United States",10
+12815192,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,175.0,93,"Beacon Street, Boston, MA 02108, United States",10
+10353263,Allston-Brighton,Apartment,Private room,1,1.0,2,60.0,93,"Quint Avenue, Boston, MA 02134, United States",9
+52423,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,4,349.0,93,"Peterborough St, Boston, MA 02215, United States",9
+7161203,Roxbury,Apartment,Private room,1,1.0,1,35.0,93,"Maywood Street, Boston, MA 02119, United States",9
+13778731,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,275.0,93,"Brimmer Street, Boston, MA 02108, United States",10
+11856912,South End,Apartment,Entire home/apt,2,2.0,4,185.0,93,"East Brookline Street, Boston, MA 02118, United States",10
+13063952,Charlestown,Apartment,Private room,1,1.0,2,55.0,93,"Cambridge Street, Boston, MA 02129, United States",9
+13782612,Allston-Brighton,Apartment,Private room,1,1.0,2,52.0,93,"Brighton Avenue, Allston, MA 02134, United States",10
+12493396,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,299.0,93,"Grove Street, Boston, MA 02114, United States",10
+12320063,Mission Hill,Apartment,Private room,1,2.0,1,55.0,93,"Hillside Street, Boston, MA 02120, United States",10
+8973362,Mission Hill,Apartment,Entire home/apt,2,1.0,4,160.0,93,"Shepherd Avenue, Boston, MA 02115, United States",9
+12383703,Chinatown,Apartment,Entire home/apt,2,2.0,5,199.0,93,"Washington Street, Boston, MA 02116, United States",10
+1638584,Roxbury,Apartment,Private room,1,1.0,1,79.0,93,"Fort Avenue, Boston, MA 02119, United States",8
+4461613,Beacon Hill,Apartment,Private room,1,1.0,1,150.0,93,"Temple Street, Boston, MA 02114, United States",10
+1358531,West End,Apartment,Entire home/apt,2,2.0,4,299.0,93,"Blossom Street, Boston, MA 02114, United States",9
+11276570,South Boston,Apartment,Entire home/apt,2,2.0,5,402.0,93,"Seaport Boulevard, Boston, MA 02210, United States",10
+7476936,Dorchester,Apartment,Private room,1,1.0,2,100.0,93,"South Point Drive, Boston, MA 02125, United States",8
+13658522,Beacon Hill,Apartment,Private room,1,1.0,2,330.0,93,"Myrtle Street, Boston, MA 02114, United States",10
+4565470,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,279.0,93,"Brookline Avenue, Boston, MA 02215, United States",10
+6444138,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,603.0,93,"Boylston Street, Boston, MA 02215, United States",9
+7901248,South End,Apartment,Entire home/apt,1,1.0,3,161.0,93,"East Springfield Street, Boston, MA 02118, United States",9
+4181163,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,279.0,93,"Brookline Avenue, Boston, MA 02215, United States",10
+12286410,Back Bay,Apartment,Entire home/apt,1,1.0,5,285.0,93,"Beacon Street, Boston, MA 02115, United States",10
+10470115,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,199.0,93,"Cedar Lane Way, Boston, MA 02108, United States",9
+10656206,South End,Apartment,Entire home/apt,2,1.0,4,200.0,93,"Massachusetts Avenue, Boston, MA 02118, United States",10
+8165898,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,319.0,93,"Brookline Avenue, Boston, MA 02215, United States",10
+472070,Back Bay,Apartment,Entire home/apt,2,1.0,6,150.0,93,"Marlborough St, Boston, MA 02116, United States",10
+815639,North End,Apartment,Entire home/apt,1,1.0,2,125.0,92,"Hull St Ct, Boston, MA 02113, United States",10
+3012529,Allston-Brighton,Apartment,Private room,1,1.0,2,75.0,92,"Corey Road, Boston, MA 02135, United States",9
+1811776,Back Bay,Apartment,Entire home/apt,1,1.0,2,189.0,92,"Commonwealth Avenue, Boston, MA 02116, United States",10
+3129309,North End,Apartment,Entire home/apt,1,1.0,2,125.0,92,"Hull Street Court, Boston, MA 02113, United States",10
+163941,Roxbury,Apartment,Entire home/apt,2,1.0,6,225.0,92,"Centre Street, Boston, MA 02119, United States",8
+2683284,South End,Apartment,Entire home/apt,1,1.0,4,190.0,92,"Washington Street, Boston, MA 02118, United States",9
+3021446,Jamaica Plain,Apartment,Private room,1,1.0,2,80.0,92,"Paul Gore Street, Boston, MA 02130, United States",9
+6006121,South Boston,Apartment,Private room,1,1.0,2,145.0,92,"Dorchester Street, Boston, MA 02127, United States",9
+7003280,South Boston,Apartment,Entire home/apt,2,1.0,4,150.0,92,"Dorchester Street, Boston, MA 02127, United States",8
+3602379,Roxbury,Apartment,Entire home/apt,1,1.0,4,159.0,92,"Centre Place, Boston, MA 02119, United States",9
+1373520,Mission Hill,Apartment,Private room,1,1.0,2,125.0,92,"Terrace Street, Boston, MA 02120, United States",9
+667325,Jamaica Plain,Apartment,Private room,1,1.0,4,75.0,92,"Greenough Park, Boston, MA 02130, United States",10
+7823025,Jamaica Plain,Apartment,Private room,1,1.0,2,76.0,92,"Centre Street, Boston, MA 02130, United States",10
+182613,Charlestown,Apartment,Entire home/apt,2,1.0,8,169.0,92,"Bunker Hill St, Boston, MA 02129, United States",9
+8799256,Downtown Crossing,Apartment,Entire home/apt,2,1.0,6,295.0,92,"Tremont Street, Boston, MA 02111, United States",9
+1110423,Allston-Brighton,Apartment,Entire home/apt,2,1.0,4,250.0,92,"Cypress Road, Boston, MA 02135, United States",9
+9685102,Allston-Brighton,Apartment,Private room,1,1.0,2,65.0,92,"Orkney Road, Boston, MA 02135, United States",10
+7368611,South End,Apartment,Entire home/apt,2,1.0,4,185.0,92,"Dwight Street, Boston, MA 02118, United States",10
+11462476,Back Bay,Apartment,Entire home/apt,1,1.0,2,200.0,92,"Beacon Street, Boston, MA 02215, United States",10
+4089940,North End,Apartment,Entire home/apt,1,1.0,2,249.0,92,"Battery Street, Boston, MA 02109, United States",10
+7874552,Beacon Hill,Apartment,Private room,1,1.0,2,130.0,92,"Charles Street, Boston, MA 02114, United States",10
+2916208,South End,Apartment,Private room,1,1.0,1,100.0,92,"Union Park Street, Boston, MA 02118, United States",9
+7495866,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,136.0,92,"Parley Vale, Boston, MA 02130, United States",10
+213086,Dorchester,Apartment,Private room,1,1.0,1,70.0,92,"Newport St, Boston, MA 02125, United States",9
+2187766,Chinatown,Apartment,Entire home/apt,2,2.0,5,389.0,92,"Washington Street, Boston, MA 02111, United States",10
+5455004,Back Bay,Apartment,Entire home/apt,2,2.0,5,232.0,92,"Garrison Street, Boston, MA 02116, United States",10
+13019695,Allston-Brighton,Apartment,Entire home/apt,2,1.0,4,187.0,92,"Glenville Avenue, Boston, MA 02134, United States",10
+4518756,Back Bay,Apartment,Entire home/apt,1,1.0,4,165.0,92,"Melrose Street, Boston, MA 02116, United States",10
+12291029,Back Bay,Apartment,Entire home/apt,1,1.0,4,200.0,92,"Beacon Street, Boston, MA 02116, United States",10
+6089196,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,200.0,92,"Myrtle Street, Boston, MA 02114, United States",10
+4410142,South End,Apartment,Entire home/apt,1,1.0,3,200.0,92,"Chandler Street, Boston, MA 02116, United States",10
+6801288,North End,Apartment,Shared room,1,1.0,1,72.0,92,"Hanover Street, Boston, MA 02113, United States",10
+7264674,Back Bay,Apartment,Entire home/apt,1,1.0,3,200.0,92,"Gloucester Street, Boston, MA 02115, United States",10
+14072256,East Boston,Apartment,Private room,1,1.0,2,99.0,92,"Maverick Street, Boston, MA 02128, United States",9
+13514017,South Boston,Apartment,Entire home/apt,2,1.0,6,295.0,92,"Seaport Boulevard, Boston, MA 02210, United States",10
+5454513,Back Bay,Apartment,Entire home/apt,2,2.0,5,276.0,92,"Garrison Street, Boston, MA 02116, United States",10
+6992859,South End,Apartment,Entire home/apt,1,1.0,4,399.0,92,"Chandler Street, Boston, MA 02116, United States",10
+11589644,Back Bay,Apartment,Entire home/apt,1,1.0,2,139.0,92,"Newbury Street, Boston, MA 02116, United States",10
+3303497,Fenway/Kenmore,Apartment,Entire home/apt,2,1.0,5,200.0,92,"Saint Stephen Street, Boston, MA 02115, United States",9
+5405928,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,200.0,92,"Arborway, Boston, MA 02130, United States",10
+12870514,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,238.0,92,"Miner Street, Boston, MA 02215, United States",10
+4964365,Allston-Brighton,Apartment,Entire home/apt,2,1.0,5,180.0,92,"Kelton Street, Boston, MA 02134, United States",9
+2016500,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,150.0,92,"Boylston Street, Boston, MA 02215, United States",10
+9896359,South End,Apartment,Entire home/apt,1,1.0,2,195.0,92,"Warren Avenue, Boston, MA 02116, United States",10
+7986179,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,75.0,92,"Parkton Road, Boston, MA 02130, United States",9
+13391054,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,100.0,92,"Allston Street, Boston, MA 02134, United States",9
+5904992,Mission Hill,Apartment,Private room,1,2.0,2,79.0,92,"Alleghany Street, Boston, MA 02120, United States",9
+8064980,East Boston,Apartment,Private room,1,1.0,2,70.0,92,"Chelsea Street, Boston, MA 02128, United States",10
+13414367,North End,Apartment,Entire home/apt,1,1.0,3,131.0,92,"Tileston Street, Boston, MA 02113, United States",10
+8962914,Allston-Brighton,Apartment,Private room,1,1.0,1,56.0,92,"Euston Road, Boston, MA 02135, United States",10
+891661,North End,Apartment,Entire home/apt,1,1.0,4,125.0,91,"Commercial Street, Boston, MA 02109, United States",10
+5267396,Mission Hill,Apartment,Entire home/apt,1,1.0,2,170.0,91,"Parker St, Boston, MA 02120, United States",8
+3653207,Theater District,Apartment,Entire home/apt,1,1.0,2,250.0,91,"Warrenton Street, Boston, MA 02116, United States",9
+466361,Allston-Brighton,Apartment,Entire home/apt,2,1.0,5,80.0,91,"Richardson St, Boston, MA 02135, United States",9
+1341072,Back Bay,Apartment,Entire home/apt,1,1.0,2,175.0,91,"Hereford Street, Boston, MA 02115, United States",10
+8563141,Downtown Crossing,Apartment,Entire home/apt,2,1.0,4,285.0,91,"Tremont Street, Boston, MA 02111, United States",10
+2848370,Chinatown,Apartment,Entire home/apt,1,1.0,3,185.0,91,"Harvard Street, Boston, MA 02111, United States",9
+8704828,Allston-Brighton,Apartment,Private room,1,1.0,2,69.0,91,"Commonwealth Avenue, Boston, MA 02134, United States",9
+6432655,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,150.0,91,"Irving Street, Boston, MA 02114, United States",10
+10381729,Mattapan,Apartment,Private room,1,1.0,1,44.0,91,"Greendale Road, Boston, MA 02126, United States",8
+4900659,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,177.0,91,"South Russell Street, Boston, MA 02114, United States",10
+9117009,North End,Apartment,Private room,1,1.0,2,120.0,91,"Charter Street, Boston, MA 02113, United States",10
+2014651,Jamaica Plain,Apartment,Private room,1,1.0,2,100.0,91,"Gartland Street, Boston, MA 02130, United States",9
+3050565,Beacon Hill,Apartment,Private room,1,2.0,1,90.0,91,"Hancock Street, Boston, MA 02114, United States",10
+4489752,Allston-Brighton,Apartment,Entire home/apt,2,1.0,5,200.0,91,"Mount Hood Road, Boston, MA 02135, United States",9
+9855805,Back Bay,Apartment,Entire home/apt,2,1.0,4,229.0,91,"Beacon Street, Boston, MA 02116, United States",10
+197146,Back Bay,Apartment,Entire home/apt,2,1.0,4,356.0,91,"Hereford St, Boston, MA 02115, United States",10
+10997047,North End,Apartment,Entire home/apt,1,1.0,4,152.0,91,"Hull Street, Boston, MA 02113, United States",10
+8792,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,154.0,91,"Beacon St, Boston, MA 02108, United States",10
+118905,East Boston,Apartment,Entire home/apt,2,1.0,4,320.0,91,"Eutaw St, Boston, MA 02128, United States",9
+7746589,South Boston,Apartment,Entire home/apt,1,1.0,4,143.0,91,"West Broadway, Boston, MA 02127, United States",10
+4040151,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,279.0,91,"Brookline Avenue, Boston, MA 02215, United States",10
+13434817,Fenway/Kenmore,Apartment,Entire home/apt,2,1.0,4,200.0,91,"Beacon Street, Boston, MA 02215, United States",10
+10706413,Allston-Brighton,Apartment,Private room,1,1.0,2,80.0,91,"Gardner Street, Boston, MA 02134, United States",10
+9900315,Charlestown,Apartment,Entire home/apt,1,1.0,4,150.0,91,"Common Street, Boston, MA 02129, United States",10
+4718577,Beacon Hill,Apartment,Private room,1,1.0,2,120.0,91,"Charles Street, Boston, MA 02114, United States",10
+627048,Back Bay,Apartment,Entire home/apt,2,2.0,4,299.0,91,"Garrison Street, Boston, MA 02116, United States",10
+12897110,Back Bay,Apartment,Entire home/apt,1,1.0,4,176.0,91,"West Newton Street, Boston, MA 02116, United States",10
+13592046,Allston-Brighton,Apartment,Private room,1,1.0,2,80.0,91,"Gardner Street, Boston, MA 02134, United States",9
+9971054,Jamaica Plain,Apartment,Private room,1,1.0,2,50.0,91,"Saint Rose Street, Boston, MA 02130, United States",10
+1340290,West End,Apartment,Private room,1,1.0,1,110.0,91,"Blossom Street, Boston, MA 02114, United States",10
+13874533,East Boston,Apartment,Entire home/apt,1,1.0,2,133.0,91,"Brooks Street, Boston, MA 02128, United States",9
+2547129,Government Center,Apartment,Entire home/apt,1,1.0,3,199.0,91,"Union Street, Boston, MA 02108, United States",10
+13614982,Back Bay,Apartment,Entire home/apt,1,1.0,4,225.0,91,"Dartmouth Street, Boston, MA 02116, United States",10
+5085125,Allston-Brighton,Apartment,Private room,1,1.0,2,70.0,90,"Commonwealth Ave, Boston, MA 02134, United States",9
+6602217,Jamaica Plain,Apartment,Entire home/apt,1,1.0,5,130.0,90,"Creighton Street, Boston, MA 02130, United States",9
+5729845,Jamaica Plain,Apartment,Private room,1,1.0,2,59.0,90,"Hyde Park Avenue, Boston, MA 02130, United States",9
+3585343,South Boston,Apartment,Private room,1,1.0,2,110.0,90,"Athens Street, Boston, MA 02127, United States",9
+2694019,South End,Apartment,Entire home/apt,1,1.0,3,250.0,90,"Dartmouth Street, Boston, MA 02116, United States",10
+3353,Allston-Brighton,Apartment,Private room,1,1.0,1,40.0,90,"Gardner St, Allston, MA 02134, United States",9
+7996844,Beacon Hill,Apartment,Private room,1,1.0,2,130.0,90,"Charles Street, Boston, MA 02114, United States",10
+1166808,South End,Apartment,Shared room,1,1.0,1,75.0,90,"Upton Street, Boston, MA 02118, United States",10
+8717204,Dorchester,Apartment,Entire home/apt,2,2.0,4,180.0,90,"Dix Street, Boston, MA 02122, United States",8
+48612,Back Bay,Apartment,Entire home/apt,2,1.0,5,375.0,90,"Follen St, Boston, MA 02116, United States",10
+4118162,Downtown Crossing,Apartment,Entire home/apt,1,1.0,2,289.0,90,"Winter Street, Boston, MA 02108, United States",9
+8340072,Downtown Crossing,Apartment,Entire home/apt,1,1.0,4,225.0,90,"Tremont St, Boston, MA 02111, United States",9
+4279959,North End,Apartment,Entire home/apt,1,1.0,2,179.0,90,"Hull Street, Boston, MA 02113, United States",10
+12592117,Fenway/Kenmore,Apartment,Entire home/apt,2,1.0,8,299.0,90,"Park Drive, Boston, MA 02215, United States",10
+7649517,South End,Apartment,Entire home/apt,1,1.0,4,189.0,90,"Harrison Street, Boston, MA 02118, United States",9
+4787359,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,250.0,90,"Revere Street, Boston, MA 02114, United States",10
+2706986,Back Bay,Apartment,Private room,1,1.0,2,125.0,90,"Melrose Street, Boston, MA 02116, United States",10
+6356533,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,279.0,90,"Fenway Triangle Trilogy, Boston, MA 02215, United States",10
+5064995,Beacon Hill,Apartment,Entire home/apt,2,1.0,2,147.0,90,"Irving Street, Boston, MA 02114, United States",10
+11842312,Theater District,Apartment,Entire home/apt,1,1.0,2,179.0,90,"Boylston Street, Boston, MA 02116, United States",10
+321328,Roslindale,Apartment,Private room,1,1.0,2,100.0,90,"Selwyn St, Boston, MA 02131, United States",9
+4261781,South Boston,Apartment,Entire home/apt,2,1.0,2,250.0,90,"West 3rd Street, Boston, MA 02127, United States",9
+13152370,Downtown Crossing,Apartment,Entire home/apt,2,1.0,6,285.0,90,"Tremont Street, Boston, MA 02111, United States",10
+12446656,Fenway/Kenmore,Apartment,Shared room,1,1.0,2,80.0,90,"Park Drive, Boston, MA 02215, United States",10
+3094942,Dorchester,Apartment,Private room,1,1.0,1,70.0,90,"East Cottage Street, Boston, MA 02125, United States",10
+13233250,Mission Hill,Apartment,Entire home/apt,2,1.0,4,199.0,90,"Tremont Street, Roxbury Crossing, MA 02120, United States",9
+697078,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,175.0,90,"Beacon St, Boston, MA 02108, United States",10
+9840919,South End,Apartment,Entire home/apt,1,1.0,4,175.0,90,"Montgomery Street, Boston, MA 02116, United States",10
+8390386,Mission Hill,Apartment,Entire home/apt,1,1.0,4,100.0,90,"Parker St, Roxbury Crossing, MA 02120, United States",8
+8096900,South End,Apartment,Entire home/apt,2,1.0,4,160.0,90,"East Brookline Street, Boston, MA 02118, United States",9
+4787213,Mission Hill,Apartment,Entire home/apt,1,1.0,4,109.0,90,"Riverway, Boston, MA 02115, United States",9
+1868513,Back Bay,Apartment,Entire home/apt,1,1.0,3,298.0,90,"Garrison Street, Boston, MA 02116, United States",10
+2526773,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,52.0,90,"Hatherly Rd, Brighton, MA 02135, United States",9
+6690605,Charlestown,Apartment,Entire home/apt,1,1.0,4,200.0,90,"Green St, Charlestown, MA 02129, United States",10
+2410846,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,150.0,90,"Beacon Street, Boston, MA 02108, United States",10
+218259,Chinatown,Apartment,Entire home/apt,1,1.0,2,269.0,90,"Washington Street, Boston, MA 02111, United States",9
+8373729,Somerville,Apartment,Private room,1,1.0,3,69.0,90,"Washington Street, Somerville, MA 02143, United States",8
+1867881,West End,Apartment,Entire home/apt,2,2.0,5,269.0,90,"Emerson Place, Boston, MA 02114, United States",10
+3656168,Roxbury,Apartment,Private room,1,1.0,1,40.0,90,"Maywood Street, Boston, MA 02119, United States",7
+3606396,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,150.0,90,"Commonwealth Avenue, Boston, MA 02135, United States",8
+6355733,South End,Apartment,Private room,1,1.0,2,80.0,90,"Albany Street, Boston, MA 02118, United States",9
+4547353,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,190.0,90,"Saint Stephen Street, Boston, MA 02115, United States",10
+3967611,North End,Apartment,Entire home/apt,1,1.0,3,200.0,90,"Commercial Street, Boston, MA 02109, United States",10
+12824498,Jamaica Plain,Apartment,Private room,1,1.0,2,70.0,90,"Bynner Street, Boston, MA 02130, United States",10
+994317,Chinatown,Apartment,Entire home/apt,1,1.0,2,349.0,90,"Washington Street, Boston, MA 02111, United States",10
+12379725,Mission Hill,Apartment,Entire home/apt,1,1.0,2,239.0,90,"Tremont Street, Boston, MA 02120, United States",9
+12566065,Jamaica Plain,Apartment,Private room,1,1.0,2,60.0,90,"Burnett Street, Boston, MA 02130, United States",8
+7395978,Allston-Brighton,Apartment,Private room,1,1.0,2,100.0,90,"Linden St, Allston, MA 02134, United States",10
+6843850,South Boston,Apartment,Entire home/apt,2,2.0,4,500.0,90,"A Street, Boston, MA 02210, United States",10
+9855,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,259.0,90,"Boylston St, Boston, MA 02215, United States",
+9445192,Allston-Brighton,Apartment,Private room,1,1.0,1,60.0,90,"Kelton Street, Boston, MA 02134, United States",9
+7868209,Allston-Brighton,Apartment,Private room,1,1.0,2,76.0,90,"Commonwealth Ave, Boston, MA 02134, United States",10
+6181230,West End,Apartment,Entire home/apt,1,1.0,2,249.0,90,"Beverly Street, Boston, MA 02114, United States",9
+11370704,Jamaica Plain,Apartment,Entire home/apt,2,2.0,6,175.0,90,"Brookside Avenue, Boston, MA 02130, United States",9
+14662927,Fenway/Kenmore,Apartment,Private room,1,1.0,3,83.0,90,"Queensberry Street, Boston, MA 02215, United States",10
+14468407,Fenway/Kenmore,Apartment,Private room,1,2.0,2,90.0,90,"Huntington Avenue, Boston, MA 02115, United States",10
+14603878,Somerville,Apartment,Private room,1,1.0,2,65.0,90,"George St Somerville, Somerville, MA 02145, United States",8
+12652181,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,4,210.0,90,"Park Drive, Boston, MA 02215, United States",10
+7784616,Roxbury,Apartment,Private room,1,1.0,1,50.0,90,"Hammond St, Boston, MA 02120, United States",7
+13509242,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,66.0,90,"Commonwealth Avenue, Boston, MA 02134, United States",9
+12761363,Allston-Brighton,Apartment,Shared room,1,1.0,1,40.0,90,"Vinal Street, Boston, MA 02135, United States",10
+14483758,North End,Apartment,Entire home/apt,1,1.0,3,195.0,90,"Stillman Street, Boston, MA 02113, United States",10
+13810937,Beacon Hill,Apartment,Private room,1,1.0,1,85.0,90,"Lindall Place, Boston, MA 02114, United States",10
+2412715,South Boston,Apartment,Entire home/apt,2,2.0,4,500.0,90,"East 2nd Street, Boston, MA 02127, United States",7
+5690640,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,300.0,90,"Mount Vernon Street, Boston, MA 02108, United States",10
+13674701,Allston-Brighton,Apartment,Entire home/apt,2,2.0,5,165.0,90,"Montfern Avenue, Boston, MA 02135, United States",10
+14057466,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,150.0,90,"Green Street, Jamaica Plain, Boston, MA 02130, United States",10
+6758443,South End,Apartment,Entire home/apt,1,1.0,2,150.0,90,"Columbus Avenue, Boston, MA 02116, United States",9
+8814479,West End,Apartment,Entire home/apt,2,2.0,5,146.0,90,"Staniford Street, Boston, MA 02114, United States",9
+7308811,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,100.0,90,"Commonwealth Avenue, Boston, MA 02135, United States",8
+12130434,West End,Apartment,Entire home/apt,2,2.0,4,349.0,90,"Blossom Street, Boston, MA 02114, United States",10
+14085771,Back Bay,Apartment,Entire home/apt,1,1.0,4,310.0,90,"Hereford Street, Boston, MA 02115, United States",10
+1755376,West End,Apartment,Entire home/apt,1,1.0,2,249.0,90,"Emerson Place, Boston, MA 02114, United States",10
+7095658,South End,Apartment,Entire home/apt,2,1.0,4,199.0,90,"Shawmut Avenue, Boston, MA 02118, United States",8
+10271867,Jamaica Plain,Apartment,Private room,1,1.0,2,46.0,90,"Centre Street, Boston, MA 02130, United States",9
+14532696,East Boston,Apartment,Private room,1,1.0,3,95.0,90,"Brandywyne Drive, Boston, MA 02128, United States",10
+1717816,Back Bay,Apartment,Entire home/apt,1,1.0,2,99.0,90,"Beacon Street, Boston, MA 02116, United States",10
+9887664,Dorchester,Apartment,Entire home/apt,2,2.0,4,160.0,90,"Mount Vernon Street, Boston, MA 02125, United States",10
+6248526,South End,Apartment,Entire home/apt,1,1.0,2,170.0,90,"Warren Avenue, Boston, MA 02116, United States",10
+11796879,South End,Apartment,Private room,1,1.0,2,90.0,90,"East Berkeley Street, Boston, MA 02118, United States",10
+3704801,Back Bay,Apartment,Entire home/apt,1,1.0,4,150.0,90,"Harcourt Street, Boston, MA 02116, United States",10
+716245,Allston-Brighton,Apartment,Entire home/apt,2,1.0,5,125.0,89,"Kenrick St, Boston, MA 02135, United States",9
+586994,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,175.0,89,"Beacon St, Boston, MA 02108, United States",10
+2636365,Roxbury,Apartment,Private room,1,1.0,2,132.0,89,"Hammond Street, Boston, MA 02120, United States",8
+6119918,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,103.0,89,"Corey Road, Boston, MA 02135, United States",9
+4580825,North End,Apartment,Entire home/apt,2,2.0,4,129.0,89,"Moon Street, Boston, MA 02113, United States",10
+1175376,Roxbury,Apartment,Entire home/apt,2,1.0,6,275.0,89,"Northampton Street, Boston, MA 02118, United States",9
+4573388,North End,Apartment,Entire home/apt,2,1.0,4,139.0,89,"Moon Street, Boston, MA 02113, United States",10
+1220971,North End,Apartment,Entire home/apt,1,1.0,5,109.0,89,"Hanover Street, Boston, MA 02109, United States",10
+2823378,Beacon Hill,Apartment,Private room,1,1.0,1,100.0,89,"Hancock Street, Boston, MA 02114, United States",10
+3730447,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,200.0,89,"Wachusett Street, Boston, MA 02130, United States",9
+11220522,Allston-Brighton,Apartment,Private room,1,1.0,4,53.0,89,"Parsons Street, Boston, MA 02135, United States",9
+5899031,Back Bay,Apartment,Entire home/apt,2,1.0,4,350.0,89,"Marlborough Street, Boston, MA 02116, United States",10
+7472068,Charlestown,Apartment,Entire home/apt,2,1.0,8,299.0,89,"Bunker Hill Street, Boston, MA 02129, United States",9
+6645010,Roxbury,Apartment,Private room,1,1.0,2,55.0,89,"Ruthven Street, Boston, MA 02121, United States",8
+6602167,Jamaica Plain,Apartment,Entire home/apt,2,1.0,6,168.0,89,"Creighton Street, Boston, MA 02130, United States",8
+250345,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,285.0,89,"Cedar Ln Way, Boston, MA 02114, United States",10
+2998554,Beacon Hill,Apartment,Entire home/apt,2,1.0,6,135.0,89,"Garden Street, Boston, MA 02114, United States",10
+839265,Dorchester,Apartment,Private room,1,1.0,1,56.0,89,"Harlem St, Boston, MA 02121, United States",7
+1275498,South End,Apartment,Entire home/apt,1,1.0,2,160.0,89,"Tremont Street, Boston, MA 02118, United States",10
+238846,East Boston,Apartment,Entire home/apt,2,1.0,4,300.0,89,"Eutaw St, Boston, MA 02128, United States",8
+12665563,South Boston,Apartment,Entire home/apt,1,1.0,2,140.0,89,"West 7th Street, Boston, MA 02127, United States",9
+4635390,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,199.0,89,"West Cedar Street, Boston, MA 02114, United States",10
+7211531,Fenway/Kenmore,Apartment,Private room,1,1.0,2,67.0,89,"Queensberry Street, Boston, MA 02215, United States",10
+6677700,South End,Apartment,Entire home/apt,2,1.0,4,210.0,89,"Columbus Avenue, Boston, MA 02116, United States",10
+13994056,Fenway/Kenmore,Apartment,Private room,1,1.0,2,89.0,89,"Queensberry Street, Boston, MA 02215, United States",10
+9452993,Fenway/Kenmore,Apartment,Private room,1,1.0,2,60.0,89,"Burbank Street, Boston, MA 02115, United States",10
+1092093,Mission Hill,Apartment,Entire home/apt,1,2.0,3,115.0,89,"Worthington Street, Boston, MA 02120, United States",10
+9274587,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,229.0,89,"Charles Street, Boston, MA 02114, United States",10
+12826881,Fenway/Kenmore,Apartment,Private room,1,1.0,1,75.0,89,"Huntington Avenue, Boston, MA 02115, United States",9
+6870485,Dorchester,Apartment,Private room,1,1.0,1,65.0,89,"Newport Street, Boston, MA 02125, United States",9
+3164650,Hyde Park,Apartment,Private room,1,1.0,1,55.0,89,"Hyde Park Avenue, Boston, MA 02136, United States",9
+1497879,East Boston,Apartment,Entire home/apt,1,1.0,3,89.0,88,"Webster Street, Boston, MA 02128, United States",9
+916123,North End,Apartment,Entire home/apt,1,1.0,2,125.0,88,"Hull Street Court, Boston, MA 02113, United States",10
+766700,North End,Apartment,Entire home/apt,1,1.0,2,125.0,88,"Hull Street Court, Boston, MA 02113, United States",10
+1648950,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,157.0,88,"Phillips st, Boston, MA 02114, United States",10
+8751275,Allston-Brighton,Apartment,Private room,1,1.0,2,59.0,88,"Commonwealth Avenue, Boston, MA 02134, United States",9
+1197857,Roxbury,Apartment,Entire home/apt,1,1.0,4,167.0,88,"Tremont Street, Boston, MA 02118, United States",9
+6324649,Fenway/Kenmore,Apartment,Private room,1,1.0,2,115.0,88,"Saint Stephen Street, Boston, MA 02115, United States",10
+2657905,North End,Apartment,Entire home/apt,1,1.0,3,99.0,88,"Hanover Street, Boston, MA 02108, United States",10
+5606682,Allston-Brighton,Apartment,Entire home/apt,2,1.0,6,211.0,88,"Commonwealth Ave, Brighton, MA 02135, United States",9
+4518710,Back Bay,Apartment,Entire home/apt,1,1.0,4,165.0,88,"Melrose Street, Boston, MA 02116, United States",10
+11498523,East Boston,Apartment,Entire home/apt,1,2.0,2,60.0,88,"Orleans Street, Boston, MA 02128, United States",9
+6646604,Allston-Brighton,Apartment,Entire home/apt,1,1.0,3,125.0,88,"Kilsyth Road, Boston, MA 02135, United States",10
+8782991,South End,Apartment,Entire home/apt,1,1.0,2,140.0,88,"Massachusetts Avenue, Boston, MA 02118, United States",9
+693353,Back Bay,Apartment,Entire home/apt,1,1.0,2,249.0,88,"Garrison St, Boston, MA 02116, United States",10
+6763785,Beacon Hill,Apartment,Private room,1,1.0,1,113.0,88,"South Russell Street, Boston, MA 02114, United States",10
+13345701,Allston-Brighton,Apartment,Private room,1,2.0,2,80.0,88,"Hooker Street, Boston, MA 02134, United States",9
+14083611,East Boston,Apartment,Private room,1,1.0,2,99.0,88,"Maverick Street, Boston, MA 02128, United States",9
+14075290,East Boston,Apartment,Private room,1,1.0,2,99.0,88,"Maverick Street, Boston, MA 02128, United States",8
+5952474,South Boston,Apartment,Entire home/apt,1,1.0,4,249.0,88,"West 2nd Street, Boston, MA 02127, United States",9
+1030500,Jamaica Plain,Apartment,Private room,1,1.0,2,100.0,88,"Northbourne Road, Jamaica Plain, MA 02130, United States",8
+13017162,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,199.0,88,"Miner Street, Boston, MA 02215, United States",10
+7855120,South Boston,Apartment,Entire home/apt,1,1.0,4,220.0,88,"West Broadway, Boston, MA 02127, United States",10
+3628320,Dorchester,Apartment,Entire home/apt,2,1.0,5,130.0,88,"Gibson Street, Boston, MA 02122, United States",9
+6598203,South Boston,Apartment,Entire home/apt,2,2.0,5,603.0,88,"Park Lane, Boston, MA 02210, United States",9
+10475848,South Boston,Apartment,Entire home/apt,2,2.0,5,361.0,88,"Melcher Street, Boston, MA 02210, United States",10
+11902134,South End,Apartment,Entire home/apt,2,1.0,6,300.0,88,"Dwight Street, Boston, MA 02118, United States",10
+12210223,Beacon Hill,Apartment,Entire home/apt,1,1.0,4,225.0,88,"Garden Street, Boston, MA 02114, United States",10
+1701741,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,295.0,88,"Goldsmith Street, Boston, MA 02130, United States",10
+4699742,South Boston,Apartment,Entire home/apt,1,1.0,4,300.0,88,"west, Boston, MA 02127, United States",9
+7283351,Allston-Brighton,Apartment,Private room,1,1.0,1,50.0,88,"Gordon Street, Boston, MA 02135, United States",9
+8055839,South Boston,Apartment,Entire home/apt,2,1.0,4,200.0,88,"D Street, Boston, MA 02127, United States",8
+4431210,Dorchester,Apartment,Private room,1,1.0,1,49.0,88,"Crescent Avenue, Boston, MA 02125, United States",9
+13521713,Mission Hill,Apartment,Entire home/apt,1,1.0,3,208.0,88,"Huntington Avenue, Boston, MA 02115, United States",10
+13640138,Jamaica Plain,Apartment,Private room,1,1.0,3,29.0,88,"Centre Street, Boston, MA 02130, United States",9
+4479140,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,190.0,88,"Fenway, Boston, MA 02215, United States",10
+1615033,North End,Apartment,Entire home/apt,1,1.0,2,135.0,87,"Hull Street Court, Boston, MA 02113, United States",10
+4314054,East Boston,Apartment,Private room,1,1.0,2,105.0,87,"Cottage Street, Boston, MA 02128, United States",9
+536865,Dorchester,Apartment,Entire home/apt,2,1.0,4,109.0,87,"Trull St, Boston, MA 02125, United States",7
+2898226,North End,Apartment,Entire home/apt,1,1.0,3,210.0,87,"Commercial Street, Boston, MA 02109, United States",10
+728238,Jamaica Plain,Apartment,Private room,1,1.0,2,60.0,87,"South St, Jamaica Plain, MA 02130, United States",9
+3294152,Dorchester,Apartment,Entire home/apt,1,1.0,4,130.0,87,"Peverell Street, Boston, MA 02125, United States",9
+4573238,North End,Apartment,Entire home/apt,2,1.0,4,119.0,87,"Moon Street, Boston, MA 02113, United States",10
+8703026,Roxbury,Apartment,Shared room,1,1.0,1,35.0,87,"Centre Street, Boston, MA 02119, United States",9
+1887507,South Boston,Apartment,Private room,1,1.0,2,100.0,87,"West 3rd Street, Boston, MA 02127, United States",9
+2043541,North End,Apartment,Entire home/apt,2,1.0,6,195.0,87,"Battery Street, Boston, MA, United States",10
+12580274,East Boston,Apartment,Private room,1,1.0,1,65.0,87,"Brooks Street, Boston, MA 02128, United States",9
+10233104,East Boston,Apartment,Entire home/apt,1,2.0,2,60.0,87,"Orleans Street, Boston, MA 02128, United States",9
+10113230,Fenway/Kenmore,Apartment,Private room,1,1.0,3,123.0,87,"Boylston Street, Boston, MA 02215, United States",10
+6409811,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,2,180.0,87,"Beacon Street, Boston, MA 02215, United States",10
+8482847,Allston-Brighton,Apartment,Private room,1,1.0,2,75.0,87,"Corey Rd, Brighton, MA 02135, United States",9
+4573458,North End,Apartment,Entire home/apt,2,1.0,4,139.0,87,"Moon Street, Boston, MA 02113, United States",10
+9857,Back Bay,Apartment,Entire home/apt,2,1.0,4,342.0,87,"Beacon St, Boston, MA 02116, United States",10
+5215982,Downtown Crossing,Apartment,Entire home/apt,1,1.0,2,285.0,87,"Winter Street, Boston, MA 02108, United States",10
+1303261,West End,Apartment,Entire home/apt,1,1.0,2,425.0,87,"West Cedar Street, Boston, MA 02108, United States",10
+4032126,Allston-Brighton,Apartment,Private room,1,1.0,1,40.0,87,"Gardner Street, Boston, MA 02134, United States",9
+14460344,Allston-Brighton,Apartment,Private room,1,1.0,2,55.0,87,"Priscilla Road, Boston, MA 02135, United States",9
+9845039,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,4,100.0,87,"Aberdeen Street, Boston, MA 02215, United States",9
+38579,West End,Apartment,Entire home/apt,2,2.0,4,299.0,87,"Longfellow Pl, Boston, MA 02114, United States",9
+561769,Dorchester,Apartment,Entire home/apt,2,1.0,6,142.0,87,"Peverell St, Boston, MA 02125, United States",9
+9496325,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,145.0,87,"Aberdeen Street, Boston, MA 02215, United States",10
+4445906,Chinatown,Apartment,Entire home/apt,2,2.0,5,389.0,87,"Washington Street, Boston, MA 02111, United States",7
+3278624,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,279.0,87,"Brookline Avenue, Boston, MA 02215, United States",10
+13081347,Mission Hill,Apartment,Private room,1,1.0,1,56.0,87,"Copenger st, Boston Ma, Boston, MA 02120, United States",9
+12344014,Dorchester,Apartment,Entire home/apt,2,1.0,4,175.0,87,"Columbia Road, Boston, MA 02125, United States",7
+4261784,South Boston,Apartment,Private room,1,1.0,2,80.0,87,"West 3rd Street, Boston, MA 02127, United States",9
+13031523,Allston-Brighton,Apartment,Private room,1,1.0,2,70.0,87,"Litchfield Street, Boston, MA 02135, United States",7
+8301150,Allston-Brighton,Apartment,Entire home/apt,1,1.0,2,175.0,87,"Commonwealth Avenue, Boston, MA 02134, United States",9
+13585624,Charlestown,Apartment,Entire home/apt,2,1.0,4,250.0,87,"Mount Vernon Street, Boston, MA 02129, United States",10
+13015832,Back Bay,Apartment,Entire home/apt,2,1.0,4,257.0,87,"Garrison Street, Boston, MA 02116, United States",9
+12020829,Back Bay,Apartment,Entire home/apt,2,1.0,4,297.0,87,"Garrison Street, Boston, MA 02116, United States",10
+195515,Mission Hill,Apartment,Entire home/apt,1,1.0,2,199.0,87,"Tremont St, Boston, MA 02120, United States",10
+3615760,East Boston,Apartment,Entire home/apt,1,1.0,2,110.0,86,"Chelsea Street, Boston, MA 02128, United States",9
+2658094,North End,Apartment,Entire home/apt,2,1.0,6,179.0,86,"Hanover Street, Boston, MA 02108, United States",10
+1887581,South Boston,Apartment,Entire home/apt,2,1.0,6,250.0,86,"West 3rd Street, Boston, MA 02127, United States",9
+2372987,South End,Apartment,Entire home/apt,1,1.0,2,164.0,86,"Massachusetts Avenue, Boston, MA 02118, United States",9
+11579622,East Boston,Apartment,Private room,1,1.0,2,85.0,86,"Maverick Street, Boston, MA 02128, United States",9
+2848330,Chinatown,Apartment,Entire home/apt,2,1.0,4,295.0,86,"Harvard Street, Boston, MA 02111, United States",8
+14072546,East Boston,Apartment,Private room,1,1.0,2,99.0,86,"Maverick Street, Boston, MA 02128, United States",9
+400067,Mattapan,Apartment,Private room,1,1.0,1,56.0,86,"Harlem St, Boston, MA 02121, United States",8
+2429961,Back Bay,Apartment,Entire home/apt,1,1.0,3,170.0,86,"Marlborough Street, Boston, MA 02116, United States",10
+2077794,Jamaica Plain,Apartment,Entire home/apt,1,1.0,4,119.0,86,"Hall Street, Boston, MA 02130, United States",9
+4518100,North End,Apartment,Private room,1,1.0,4,175.0,86,"Battery Street, Boston, MA 02109, United States",10
+11343485,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,159.0,86,"Hancock Street, Boston, MA 02114, United States",10
+4518380,Back Bay,Apartment,Entire home/apt,2,1.0,6,188.0,86,"Melrose Street, Boston, MA 02116, United States",10
+21337,Back Bay,Apartment,Entire home/apt,2,1.0,4,329.0,86,"Garrison Street, Boston, MA 02116, United States",10
+3775876,Jamaica Plain,Apartment,Private room,1,1.0,2,125.0,86,"Rossmore Road, Boston, MA 02130, United States",8
+10264774,Back Bay,Apartment,Entire home/apt,2,1.0,4,299.0,86,"Garrison Street, Boston, MA 02116, United States",10
+1864705,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,279.0,86,"Brookline Avenue, Boston, MA 02215, United States",10
+27611,Jamaica Plain,Apartment,Entire home/apt,1,1.0,2,185.0,86,"Goodrich Rd, Boston, MA 02130, United States",10
+8014950,Allston-Brighton,Apartment,Entire home/apt,1,1.0,3,115.0,86,"Chestnut Hill Avenue, Boston, MA 02135, United States",9
+12264207,Mission Hill,Apartment,Entire home/apt,2,1.0,5,150.0,86,"Parker Hill Avenue, Boston, MA 02120, United States",9
+8378257,Allston-Brighton,Apartment,Private room,1,1.0,2,85.0,86,"murdock, Brighton, MA 02135, United States",9
+4695542,Dorchester,Apartment,Private room,1,1.0,2,69.0,85,"Hubbardston Road, Boston, MA 02125, United States",9
+349347,Roxbury,Apartment,Entire home/apt,1,1.0,4,150.0,85,"Tremont St, Boston, MA 02118, United States",9
+11986653,South Boston,Apartment,Private room,1,1.0,4,45.0,85,"Old Colony Avenue, Boston, MA 02127, United States",8
+5990896,Fenway/Kenmore,Apartment,Shared room,1,1.0,1,85.0,85,"Burbank Street, Boston, MA 02115, United States",10
+6436334,East Boston,Apartment,Private room,1,1.0,2,150.0,85,"Maverick Street, Boston, MA 02128, United States",9
+2848362,Chinatown,Apartment,Entire home/apt,2,1.0,4,295.0,85,"Harvard Street, Boston, MA 02111, United States",9
+6686224,Theater District,Apartment,Private room,1,1.0,1,125.0,85,"Tremont Street, Boston, MA 02116, United States",9
+5717690,Roxbury,Apartment,Entire home/apt,1,1.0,4,167.0,85,"Tremont Street, Boston, MA 02118, United States",9
+12233285,East Boston,Apartment,Entire home/apt,1,2.0,2,60.0,85,"Orleans Street, Boston, MA 02128, United States",9
+9860,Back Bay,Apartment,Entire home/apt,1,1.0,2,251.0,85,"Beacon St, Boston, MA 02116, United States",10
+9824155,Mission Hill,Apartment,Private room,1,1.0,2,49.0,85,"Jamaicaway, Boston, MA 02130, United States",8
+5649821,Theater District,Apartment,Entire home/apt,1,1.0,4,300.0,85,"Boylston Street, Boston, MA 02116, United States",10
+5903001,Back Bay,Apartment,Entire home/apt,1,1.0,4,325.0,85,"Dartmouth Street, Boston, MA 02116, United States",9
+6955911,Fenway/Kenmore,Apartment,Private room,1,1.0,1,90.0,85,"Westland Avenue, Boston, MA 02115, United States",10
+13062783,Mission Hill,Apartment,Private room,1,1.0,1,42.0,85,"Darling St, Boston, MA 02120, United States",9
+10701625,Back Bay,Apartment,Entire home/apt,1,1.0,4,249.0,85,"Garrison Street, Boston, MA 02116, United States",10
+13433317,East Boston,Apartment,Entire home/apt,2,1.0,5,119.0,85,"Shelby Street, Boston, MA 02128, United States",8
+5834930,South End,Apartment,Private room,1,1.0,2,125.0,85,"Dartmouth Street, Boston, MA 02116, United States",10
+13723404,Downtown Crossing,Apartment,Entire home/apt,1,1.0,4,189.0,85,"Arch Street, Boston, MA 02110, United States",9
+4577188,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,4,127.0,84,"Boylston Street, Boston, MA 02215, United States",10
+1342370,Roxbury,Apartment,Entire home/apt,2,1.0,6,265.0,84,"Northampton Street, Boston, MA 02118, United States",9
+12233043,East Boston,Apartment,Entire home/apt,1,2.0,2,60.0,84,"Orleans Street, Boston, MA 02128, United States",9
+2842124,North End,Apartment,Entire home/apt,1,1.0,3,150.0,84,"Thacher Street, Boston, MA 02113, United States",10
+848152,Mission Hill,Apartment,Entire home/apt,2,1.0,7,399.0,84,"Terrace St, Boston, MA 02120, United States",7
+12233225,East Boston,Apartment,Entire home/apt,1,2.0,2,60.0,84,"Orleans Street, Boston, MA 02128, United States",9
+22212,Back Bay,Apartment,Entire home/apt,2,1.0,5,285.0,84,"Hereford St, Boston, MA 02115, United States",10
+2043529,North End,Apartment,Entire home/apt,2,1.0,4,195.0,84,"Battery Street, Boston, MA 02109, United States",10
+11590000,Back Bay,Apartment,Entire home/apt,1,1.0,2,209.0,84,"Newbury Street, Boston, MA 02116, United States",9
+11343048,Allston-Brighton,Apartment,Entire home/apt,1,1.0,5,80.0,84,"Ashford Street, Boston, MA 02134, United States",8
+8780440,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,110.0,84,"Chestnut Hill Avenue, Boston, MA 02135, United States",9
+6568621,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,279.0,84,"Brookline Avenue, Boston, MA 02215, United States",10
+6780300,Roxbury,Apartment,Private room,1,1.0,2,65.0,84,"Hammond Street, ROXBURY CROSSING, MA 02120, United States",8
+12497846,Mission Hill,Apartment,Private room,1,1.0,1,90.0,84,"Darling Street, Boston, MA 02120, United States",10
+54944,Beacon Hill,Apartment,Entire home/apt,1,1.0,2,185.0,84,"Cedar Lane Way, Boston, MA 02108, United States",10
+1277618,South End,Apartment,Entire home/apt,1,1.0,2,170.0,84,"Shawmut Avenue, Boston, MA 02118, United States",10
+11818157,Allston-Brighton,Apartment,Private room,1,1.0,2,103.0,84,"Commonwealth Avenue, Boston, MA 02134, United States",10
+27141,South End,Apartment,Entire home/apt,1,1.0,2,279.0,84,"Columbus Ave, Boston, MA 02118, United States",9
+3302294,Back Bay,Apartment,Entire home/apt,1,1.0,2,245.0,83,"Marlborough Street, Boston, MA 02116, United States",10
+7630340,Chinatown,Apartment,Entire home/apt,1,1.0,4,149.0,83,"Oak Street, Boston, MA 02111, United States",9
+11583581,Fenway/Kenmore,Apartment,Private room,1,1.0,2,70.0,83,"Symphony Road, Boston, MA 02115, United States",9
+6780313,Roxbury,Apartment,Private room,1,1.0,2,65.0,83,"Hammond Street, ROXBURY CROSSING, MA 02120, United States",7
+5453775,Mission Hill,Apartment,Private room,1,2.0,5,99.0,83,"South Huntington Avenue, Boston, MA 02130, United States",9
+13325983,Dorchester,Apartment,Private room,1,1.0,2,60.0,83,"North Point Drive, Boston, MA 02125, United States",9
+1776190,Back Bay,Apartment,Entire home/apt,1,1.0,2,349.0,83,"Garrison Street, Boston, MA 02116, United States",10
+1471373,Mission Hill,Apartment,Private room,1,1.0,3,75.0,82,"Tremont Street, Boston, MA 02120, United States",9
+11498416,East Boston,Apartment,Entire home/apt,1,2.0,2,60.0,82,"Orleans Street, Boston, MA 02128, United States",9
+3377871,Beacon Hill,Apartment,Private room,1,2.0,2,120.0,82,"Hancock Street, Boston, MA 02114, United States",10
+12835086,South Boston,Apartment,Entire home/apt,1,1.0,3,120.0,82,"West 7th Street, Boston, MA 02127, United States",9
+10037387,Back Bay,Apartment,Entire home/apt,2,1.0,4,239.0,82,"Hereford Street, Boston, MA 02115, United States",10
+2933661,Jamaica Plain,Apartment,Private room,1,1.0,2,85.0,82,"Rossmore Road, Boston, MA 02130, United States",8
+2778656,East Boston,Apartment,Entire home/apt,2,1.0,4,150.0,82,"Marion Street, Boston, MA 02128, United States",9
+2441095,East Boston,Apartment,Entire home/apt,2,1.0,4,99.0,81,"Brooks Street, Boston, MA 02128, United States",8
+28150,Back Bay,Apartment,Entire home/apt,1,1.0,2,251.0,81,"Beacon Street, Boston, MA 02116, United States",10
+4098410,Jamaica Plain,Apartment,Private room,1,1.0,2,107.0,81,"Rossmore Road, Boston, MA 02130, United States",8
+4603803,Back Bay,Apartment,Private room,1,1.0,2,100.0,80,"Huntington Avenue, Boston, MA 02115, United States",10
+2189086,Back Bay,Apartment,Private room,1,1.0,1,80.0,80,"Beacon Street, Boston, MA 02215, United States",10
+10266928,Back Bay,Apartment,Entire home/apt,1,1.0,2,229.0,80,"Beacon Street, Boston, MA 02116, United States",10
+13724578,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,4,120.0,80,"Boylston Street, Boston, MA 02215, United States",10
+8014383,South End,Apartment,Entire home/apt,1,1.0,2,215.0,80,"West Newton Street, Boston, MA 02118, United States",10
+13264687,Allston-Brighton,Apartment,Shared room,1,2.0,2,40.0,80,"Woodmont Street, Boston, MA 02135, United States",10
+9870,South End,Apartment,Entire home/apt,1,1.0,2,279.0,80,"Columbus Avenue, Boston, MA 02116, United States",10
+54215,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,4,349.0,80,"Brookline Avenue, Boston, MA 02215, United States",9
+13677640,Jamaica Plain,Apartment,Private room,1,1.0,2,53.0,80,"Montebello Road, Boston, MA 02130, United States",9
+1944976,Dorchester,Apartment,Private room,1,1.0,1,76.0,80,"Savin Hill Avenue, Boston, MA 02125, United States",9
+13642260,Allston-Brighton,Apartment,Entire home/apt,1,1.0,4,95.0,80,"Commonwealth Avenue, Boston, MA 02135, United States",10
+3250847,Dorchester,Apartment,Private room,1,1.0,1,70.0,80,"Newport Street, Boston, MA 02125, United States",8
+8191517,West End,Apartment,Private room,1,1.0,1,155.0,80,"Blossom Street, Boston, MA 02114, United States",10
+12020004,Dorchester,Apartment,Entire home/apt,2,1.0,6,144.0,80,"Harvard St, Boston, MA 02124, United States",7
+10855052,Beacon Hill,Apartment,Entire home/apt,1,1.0,3,125.0,80,"Irving Street, Boston, MA 02114, United States",10
+10742655,Downtown,Apartment,Private room,1,1.0,8,70.0,80,"State Street, Boston, MA 02109, United States",8
+3589869,Dorchester,Apartment,Private room,1,1.0,2,80.0,80,"Burt Street, Boston, MA 02124, United States",8
+11275661,South Boston,Apartment,Entire home/apt,1,1.0,3,285.0,80,"Seaport Boulevard, Boston, MA 02210, United States",9
+9473811,Allston-Brighton,Apartment,Entire home/apt,2,1.0,5,200.0,80,"Gardner Street, Boston, MA 02134, United States",9
+10234895,Dorchester,Apartment,Private room,1,1.0,2,55.0,80,"Bailey Street, Boston, MA 02124, United States",7
+13379155,Roxbury,Apartment,Private room,1,1.0,1,52.0,80,"Columbus Avenue, Roxbury Crossing, MA 02120, United States",9
+12432623,Fenway/Kenmore,Apartment,Private room,1,1.0,2,85.0,80,"Boylston Street, Boston, MA 02215, United States",10
+9610609,North End,Apartment,Entire home/apt,2,1.0,5,160.0,80,"Battery Street, Boston, MA 02109, United States",10
+7508865,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,169.0,80,"Fenway Triangle Trilogy, 180 Brookline Ave, Boston, MA 02215, United States",9
+7562235,Mission Hill,Apartment,Private room,1,1.0,2,90.0,80,"South Huntington Avenue, Boston, MA 02130, United States",10
+11553697,Jamaica Plain,Apartment,Shared room,1,1.0,3,200.0,80,"Zamora Street, Boston, MA 02130, United States",9
+4516065,Back Bay,Apartment,Entire home/apt,1,1.0,3,298.0,80,"Garrison Street, Boston, MA 02116, United States",10
+826555,South End,Apartment,Entire home/apt,1,1.0,4,84.0,80,"Chandler St, Boston, MA 02116, United States",10
+7573274,Fenway/Kenmore,Apartment,Entire home/apt,2,2.0,5,199.0,80,"Boylston Street, Boston, MA 02215, United States",10
+11885148,Back Bay,Apartment,Entire home/apt,1,1.0,2,325.0,80,"Marlborough Street, Boston, MA 02116, United States",10
+789843,Back Bay,Apartment,Entire home/apt,1,1.0,2,250.0,80,"Beacon St, Boston, MA 02115, United States",10
+12290886,South End,Apartment,Entire home/apt,1,1.0,4,215.0,80,"Braddock Park, Boston, MA 02116, United States",10
+4452800,Jamaica Plain,Apartment,Private room,1,1.0,2,70.0,80,"Wachusett Street, Boston, MA 02130, United States",9
+979759,West End,Apartment,Entire home/apt,2,2.0,4,310.0,80,"Emerson Place, Boston, MA 02114, United States",10
+14418593,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,300.0,80,"Boylston Street, Boston, MA 02215, United States",10
+13313124,Dorchester,Apartment,Private room,1,1.0,2,80.0,80,"Burt Street, Boston, MA 02124, United States",9
+13943142,Chinatown,Apartment,Private room,1,1.0,2,95.0,80,"Hudson Street, Boston, MA 02111, United States",10
+10117803,Chinatown,Apartment,Entire home/apt,2,2.0,5,199.0,80,"Washington Street, Boston, MA 02116, United States",9
+12067685,Chinatown,Apartment,Entire home/apt,1,1.0,4,135.0,80,"Oak Street, Boston, MA 02111, United States",9
+7927765,Dorchester,Apartment,Private room,1,1.0,2,105.0,80,"Boston Street, Boston, MA 02125, United States",9
+11295065,South Boston,Apartment,Entire home/apt,1,1.0,4,150.0,80,"Mitchell Street, Boston, MA 02127, United States",8
+14504583,Somerville,Apartment,Private room,1,1.0,2,65.0,80,"Broadway, Somerville, MA 02145, United States",10
+8319253,Roxbury,Apartment,Private room,1,1.0,2,100.0,80,"Hartford Street, Boston, MA 02125, United States",10
+7868931,Mission Hill,Apartment,Entire home/apt,1,1.0,3,169.0,80,"Saint Alphonsus Street, Boston, MA 02120, United States",10
+9110588,Jamaica Plain,Apartment,Private room,1,1.0,2,25.0,80,"Wenham Street, Boston, MA 02130, United States",8
+13653016,Roxbury,Apartment,Entire home/apt,2,1.0,4,229.0,80,"Tremont Street, Boston, MA 02120, United States",9
+13415816,Allston-Brighton,Apartment,Private room,1,1.0,2,99.0,80,"Gardner Street, Boston, MA 02134, United States",10
+7358714,South End,Apartment,Entire home/apt,1,1.0,4,209.0,80,"Harrison Avenue, Boston, MA 02118, United States",8
+2243499,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,285.0,80,"Boylston Street, Boston, MA 02215, United States",8
+10228228,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,169.0,80,"Brookline Avenue, Boston, MA 02215, United States",10
+14398508,Mission Hill,Apartment,Private room,1,1.0,2,71.0,80,"Pontiac Street, Boston, MA 02120, United States",6
+12997241,Jamaica Plain,Apartment,Entire home/apt,2,2.0,3,100.0,80,"Cerina Road, Boston, MA 02130, United States",10
+4652263,Allston-Brighton,Apartment,Entire home/apt,1,1.0,3,250.0,80,"Commonwealth Avenue, Boston, MA 02135, United States",10
+13163259,Charlestown,Apartment,Entire home/apt,1,1.0,3,150.0,80,"Seminary Street, Boston, MA 02129, United States",8
+13565466,Mission Hill,Apartment,Private room,1,1.0,2,45.0,80,"Pontiac Street, Boston, MA 02120, United States",10
+10928093,North End,Apartment,Entire home/apt,2,1.0,4,125.0,80,"Baldwin Place, Boston, MA 02113, United States",10
+2729015,Allston-Brighton,Apartment,Entire home/apt,1,1.0,1,85.0,80,"Hobson Street, Boston, MA 02135, United States",10
+6923942,Allston-Brighton,Apartment,Private room,1,1.0,1,120.0,80,"Brainerd Road, Boston, MA 02134, United States",10
+12904318,Dorchester,Apartment,Private room,1,1.0,1,55.0,80,"Bailey Street, Boston, MA 02124, United States",10
+8097903,West End,Apartment,Entire home/apt,2,2.0,4,329.0,80,"Beverly Street, Boston, MA 02114, United States",10
+10116726,Chinatown,Apartment,Entire home/apt,1,1.0,3,169.0,80,"Washington Street, Boston, MA 02116, United States",8
+8303748,Allston-Brighton,Apartment,Private room,1,1.0,2,45.0,80,"Murdock Street, Boston, MA 02135, United States",8
+12383204,Chinatown,Apartment,Entire home/apt,2,2.0,5,299.0,80,"Washington Street, Boston, MA 02116, United States",8
+7860369,Back Bay,Apartment,Private room,1,1.0,2,210.0,80,"Boylston Street, Boston, MA 02116, United States",10
+9897713,East Boston,Apartment,Entire home/apt,1,1.0,3,63.0,80,"Lexington Street, Boston, MA 02128, United States",8
+12603280,Back Bay,Apartment,Entire home/apt,1,1.0,2,232.0,80,"Saint Botolph Street, Boston, MA 02116, United States",10
+10149314,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,169.0,80,"Boylston Street, Boston, MA 02215, United States",8
+13711334,Back Bay,Apartment,Entire home/apt,1,1.0,5,225.0,80,"Beacon Street, Boston, MA 02115, United States",8
+9180965,Fenway/Kenmore,Apartment,Private room,1,1.0,1,159.0,80,"Park Drive, Boston, MA 02215, United States",10
+12246137,Fenway/Kenmore,Apartment,Entire home/apt,1,1.0,3,229.0,80,"Brookline Avenue, Boston, MA 02215, United States",10
+12563549,Downtown,Apartment,Entire home/apt,1,1.0,3,400.0,80,"Devonshire Place, Boston, MA 02109, United States",10
+9993602,Back Bay,Apartment,Entire home/apt,1,1.0,3,219.0,80,"Garrison Street, Boston, MA 02116, United States",10
+9349614,Jamaica Plain,Apartment,Entire home/apt,2,1.0,4,150.0,80,"Williams Street, Boston, MA 02130, United States",8
+14673441,Beacon Hill,Apartment,Private room,1,1.0,2,250.0,80,"Mount Vernon Street, Boston, MA 02108, United States",8
+4475740,East Boston,Apartment,Entire home/apt,1,1.0,2,65.0,80,"Everett Street, Boston, MA 02128, United States",10
+12088322,West End,Apartment,Entire home/apt,2,2.0,5,249.0,80,"Emerson Place, Boston, MA 02114, United States",10
+13578911,Dorchester,Apartment,Private room,1,1.0,1,45.0,80,"Chase Street, Boston, MA 02125, United States",10
+4736217,Jamaica Plain,Apartment,Private room,1,1.0,1,72.0,80,"Egleston Street, Boston, MA 02130, United States",8
+10051842,West End,Apartment,Entire home/apt,2,2.0,5,199.0,80,"Blossom Street, Boston, MA 02114, United States",10

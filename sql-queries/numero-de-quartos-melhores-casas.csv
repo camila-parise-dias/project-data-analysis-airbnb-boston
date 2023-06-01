@@ -1,0 +1,13 @@
+property_type,total_property_type,0_bedroom,1_bedroom,2_bedrooms,3_bedrooms,4_bedrooms,5_bedrooms
+Apartment,1551,174,948,339,75,13,2
+House,390,4,303,27,29,20,7
+Condominium,158,7,99,43,7,1,1
+Townhouse,40,4,30,3,1,1,1
+Loft,29,5,15,8,1,0,0
+Bed & Breakfast,26,0,25,1,0,0,0
+Boat,8,0,1,6,1,0,0
+Other,7,0,7,0,0,0,0
+Villa,2,0,2,0,0,0,0
+Dorm,2,0,2,0,0,0,0
+Guesthouse,1,0,0,1,0,0,0
+Entire Floor,1,0,1,0,0,0,0
